@@ -1,0 +1,826 @@
+"name"	"ID"	"KE_KED"	"KE_PD"	"col"	"AOP_ID"	"LOBO"	"title"	"wcc"	"scc"	"degree_in"	"degree_out"	"degree_total"	"betweenness"	"n_betweenness"	"KE_LAOC"	"plotX"	"plotY"
+"177"	"177"	"KE"	""	"white"	"3, 48, 77, 78, 79, 80, 87, 144, 178, 200"	"Cellular"	"N/A, Mitochondrial dysfunction 1"	1	768	5	8	13	746.999999984	0.00110152296238012	4224	19.955856537065	10.4628127043258
+"889"	"889"	"KE"	""	"white"	"3"	"Cellular"	"Impaired, Proteostasis"	1	773	1	1	2	0	0	1248	20.0319210486461	11.3328366603995
+"890"	"890"	"KE"	""	"white"	"3"	"Organ"	"Degeneration of dopaminergic neurons of the nigrostriatal pathway"	1	774	3	2	5	90	0.000132713609928158	2558	18.6106710495267	10.269713551387
+"188"	"188"	"KE"	""	"white"	"3, 12, 17, 48"	"Tissue"	"N/A, Neuroinflammation"	1	774	3	3	6	142	0.000209392584553315	3495	16.8739403108881	10.6535997905973
+"896"	"896"	"AO"	"terminus"	"red"	"3"	"Individual"	"Parkinsonian motor deficits"	1	775	1	0	1	0	0	86	19.6551486011926	8.9398437786019
+"888"	"888"	"MIE"	"origin"	"green"	"3"	"Molecular"	"Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)"	1	766	0	1	1	0	0	352	24.1512263340123	11.2737042978699
+"887"	"887"	"KE"	""	"white"	"3"	"Cellular"	"Inhibition, NADH-ubiquinone oxidoreductase  (complex I)"	1	767	1	1	2	47.999999999	7.07805919602095e-05	352	22.203437548948	11.1401579034541
+"103"	"103"	"MIE"	"origin"	"green"	"4"	"Molecular"	"Activation, Ecdysone receptor"	1	754	0	1	1	0	0	3	34.1745934343916	10.2494726833869
+"1264"	"1264"	"KE"	""	"white"	"4"	"Molecular"	"Induction, Nuclear receptor E75b gene"	1	755	1	1	2	10	1.47459566586842e-05	3	34.163945285355	8.70633030515356
+"1265"	"1265"	"KE"	""	"white"	"4"	"Molecular"	"Suppression, Fushi tarazu factor-1 gene"	1	756	1	1	2	18	2.65427219856315e-05	3	34.156130361389	6.69393032749275
+"988"	"988"	"KE"	""	"white"	"4"	"Tissue"	"Reduction, Release of circulating ecdysis triggering hormone"	1	757	1	1	2	24	3.53902959808421e-05	3	33.3933947442792	4.80148924191289
+"1266"	"1266"	"KE"	""	"white"	"4"	"Tissue"	"Reduction, Release of circulating crustacean cardioactive peptide"	1	758	1	1	2	28	4.12886786443157e-05	3	32.2295825519555	2.80745667130309
+"1267"	"1267"	"KE"	""	"white"	"4"	"Tissue"	"Reduction, Ecdysis motoneuron bursts"	1	759	1	1	2	30	4.42378699760526e-05	3	30.4633000411003	0.496772855042413
+"1268"	"1268"	"KE"	""	"white"	"4"	"Tissue"	"Reduction, Excitatory postsynaptic potential"	1	760	1	1	2	30	4.42378699760526e-05	3	27.7449574944892	-1.51875737938755
+"993"	"993"	"KE"	""	"white"	"4"	"Tissue"	"Reduction, Abdominal muscle contraction"	1	761	1	1	2	28	4.12886786443157e-05	3	24.1454584447015	-3.0218367247683
+"990"	"990"	"KE"	""	"white"	"4"	"Individual"	"Induction, Incomplete ecdysis"	1	762	1	1	2	24	3.53902959808421e-05	3	21.2617152250605	-4.08598677464089
+"351"	"351"	"AO"	"terminus"	"red"	"4, 16, 96, 104, 113, 138, 160, 161, 177, 186"	"Population"	"Increased, Mortality"	1	763	10	2	12	209	0.0003081904941665	396	19.0053373562265	-5.85805212367993
+"858"	"858"	"KE"	""	"white"	"6"	"Molecular"	"Decreased, PPARalpha transactivation of gene expression"	2	747	1	3	4	12	1.7695147990421e-05	3	41.2100257944235	12.8591355658012
+"859"	"859"	"KE"	""	"white"	"6"	"Molecular"	"Decreased, Peroxisomal Fatty Acid Beta Oxidation of Fatty Acids"	2	748	1	1	2	0	0	1	40.5227636178077	12.1349471701525
+"860"	"860"	"KE"	""	"white"	"6"	"Molecular"	"Decreased, Mitochondrial Fatty Acid Beta Oxidation"	2	749	2	1	3	4	5.89838266347368e-06	2	42.0275634655048	12.3980734801376
+"861"	"861"	"KE"	""	"white"	"6"	"Cellular"	"Decreased, Ketogenesis (production of ketone bodies)"	2	750	2	1	3	15	2.21189349880263e-05	3	41.545341305343	11.4260652237098
+"862"	"862"	"KE"	""	"white"	"6"	"Tissue"	"Not Increased, Circulating Ketone Bodies"	2	751	1	1	2	12	1.7695147990421e-05	3	41.6642466682086	10.1793211397918
+"863"	"863"	"KE"	""	"white"	"6"	"Organ"	"Increased, Catabolism of Muscle Protein"	2	752	1	1	2	7	1.03221696610789e-05	3	42.7440033307555	10.0796698386977
+"864"	"864"	"AO"	"terminus"	"red"	"6"	"Individual"	"Decreased, Body Weight"	2	753	1	0	1	0	0	3	43.1683674394405	11.1875561509621
+"1000"	"1000"	"KE"	""	"white"	"6"	"Molecular"	"stabilization, PPAR alpha co-repressor"	2	746	1	1	2	7	1.03221696610789e-05	3	41.8980303821827	13.9892249266655
+"998"	"998"	"MIE"	"origin"	"green"	"6"	"Molecular"	"Binding of antagonist, PPAR alpha"	2	745	0	1	1	0	0	3	43.0537794698817	13.9705350738994
+"219"	"219"	"KE"	""	"white"	"7, 23, 25, 122, 123"	"Organ"	"Reduction, Plasma 17beta-estradiol concentrations"	1	737	1	3	4	72	0.000106170887942526	42	5.60223302045076	24.7108667529912
+"405"	"405"	"AO"	"terminus"	"red"	"7"	"Individual"	"irregularities, ovarian cycle"	1	743	1	1	2	12	1.7695147990421e-05	14	7.71698365813218	27.0642165108969
+"3"	"3"	"KE"	""	"white"	"7, 23, 25, 122, 123"	"Cellular"	"Reduction, 17beta-estradiol synthesis by ovarian granulosa cells"	1	736	5	1	6	75	0.000110594674940131	42	5.31448547386443	26.9507616011059
+"408"	"408"	"MIE"	"origin"	"green"	"7"	"Cellular"	"reduction in ovarian granulosa cells, Aromatase (Cyp19a1)"	1	735	0	1	1	0	0	6	5.24045432907199	28.1059151921737
+"406"	"406"	"AO"	"terminus"	"red"	"7, 18, 51, 64"	"Individual"	"impaired, Fertility"	1	744	4	0	4	0	0	31	10.3474537591735	28.9697473663264
+"667"	"667"	"MIE"	"origin"	"green"	"10"	"Molecular"	"Binding at picrotoxin site, iGABAR chloride channel"	3	729	0	1	1	0	0	1	31.7033514760586	14.1273725835733
+"64"	"64"	"KE"	""	"white"	"10"	"Cellular"	"Reduction, Ionotropic GABA receptor chloride channel conductance"	3	730	1	1	2	4	5.89838266347368e-06	1	32.7648203390357	14.3261850239092
+"669"	"669"	"KE"	""	"white"	"10"	"Cellular"	"Reduction, Neuronal synaptic inhibition"	3	731	1	1	2	6	8.84757399521051e-06	1	33.9742230560847	14.5171627063636
+"682"	"682"	"KE"	""	"white"	"10"	"Cellular"	"Generation, Amplified excitatory postsynaptic potential (EPSP)"	3	732	1	1	2	6	8.84757399521051e-06	1	34.9299793539905	13.7982167503801
+"616"	"616"	"KE"	""	"white"	"10"	"Tissue"	"Occurrence, A paroxysmal depolarizing shift"	3	733	1	1	2	4	5.89838266347368e-06	1	34.4618489055781	12.6742947910614
+"613"	"613"	"AO"	"terminus"	"red"	"10"	"Individual"	"Occurrence, Epileptic seizure"	3	734	1	0	1	0	0	1	33.2824334082002	12.425256901381
+"201"	"201"	"MIE"	"origin"	"green"	"12, 13"	"Molecular"	"Binding of antagonist, NMDA receptors"	1	722	0	1	1	0	0	180	12.0746108902996	14.821618398441
+"195"	"195"	"KE"	""	"white"	"12, 13"	"Molecular"	"Inhibition, NMDARs"	1	723	1	1	2	47	6.93059962958157e-05	180	12.5405473610137	13.3828921851821
+"52"	"52"	"KE"	""	"white"	"12, 13"	"Cellular"	"Decreased, Calcium influx"	1	724	1	1	2	92	0.000135662801259895	180	12.7283188481084	11.7461867257378
+"381"	"381"	"KE"	""	"white"	"12, 13, 54"	"Molecular"	"Reduced levels of BDNF"	1	725	3	6	9	421.166666662	0.000621050541268034	2520	12.8718001586838	9.68204374660541
+"55"	"55"	"KE"	""	"white"	"12, 13, 17, 38, 48, 144"	"Cellular"	"N/A, Cell injury/death"	1	774	7	8	15	1013.333333331	0.00149425694140989	4983	16.4073431103599	12.3655676843214
+"352"	"352"	"AO"	"terminus"	"red"	"12, 48"	"Tissue"	"N/A, Neurodegeneration"	1	774	2	3	5	138.5	0.000204231499722776	3441	15.8677664315113	9.2945551955564
+"341"	"341"	"AO"	"terminus"	"red"	"12, 13, 17, 48, 54, 77, 78, 87, 88, 89, 90, 99"	"Individual"	"Impairment, Learning and memory"	1	798	9	3	12	659.833333322	0.000972987373512133	6615	15.2771559918967	6.37823836297632
+"385"	"385"	"KE"	""	"white"	"13, 54"	"Cellular"	"Decrease of synaptogenesis"	1	795	5	1	6	55.666666662	8.20858253931272e-05	1755	14.0231520592491	10.121238058857
+"386"	"386"	"KE"	""	"white"	"13, 17, 54, 78, 90"	"Organ"	"Decrease of neuronal network function"	1	796	4	1	5	219.166666661	0.000323182216761139	2775	16.7216556717082	9.25442755418838
+"382"	"382"	"KE"	""	"white"	"13"	"Cellular"	"Aberrant, Dendritic morphology"	1	728	1	1	2	0	0	210	12.7820967055351	8.25977419770871
+"383"	"383"	"KE"	""	"white"	"13"	"Molecular"	"Reduced, Presynaptic release of glutamate"	1	727	1	1	2	0	0	210	13.7537201515782	8.4058498260456
+"122"	"122"	"MIE"	"origin"	"green"	"14, 214"	"Molecular"	"Activation, Glucocorticoid Receptor"	1	710	1	2	3	16.999999999	2.50681263182885e-05	14	26.9827368049807	22.2857679155644
+"145"	"145"	"KE"	""	"white"	"14"	"Cellular"	"Induction, IKB inhibitory protein"	1	715	1	1	2	23.999999998	3.53902959778929e-05	12	28.9266788939615	18.2567396207714
+"202"	"202"	"KE"	""	"white"	"14"	"Molecular"	"Inhibition, Nuclear factor kappa B (NF-kB)"	1	716	1	1	2	32.999999997	4.8661656969234e-05	12	29.6742706895846	14.7269168242316
+"152"	"152"	"KE"	""	"white"	"14"	"Individual"	"Suppression, Inflammatory cytokines"	1	717	1	1	2	39.999999996	5.89838266288384e-05	12	28.5913419971501	11.8457183641023
+"168"	"168"	"KE"	""	"white"	"14"	"Individual"	"Decreased, Lymphocytes"	1	718	1	1	2	44.999999995	6.63568049567059e-05	12	27.1797755375891	8.69129955382284
+"403"	"403"	"KE"	""	"white"	"14, 84, 85"	"Individual"	"Suppression, Immune system"	1	719	1	1	2	47.999999994	7.07805919528365e-05	12	25.7684627293594	6.40070463952972
+"97"	"97"	"MIE"	"origin"	"green"	"15, 139"	"Molecular"	"Alkylation, DNA"	4	705	0	4	4	0	0	6	32.7576521953319	26.3703020612306
+"155"	"155"	"KE"	""	"white"	"15, 139"	"Cellular"	"N/A, Insufficient or incorrect DNA repair"	4	706	1	1	2	0	0	2	34.2893358193549	26.0108165183582
+"185"	"185"	"KE"	""	"white"	"15, 139"	"Molecular"	"Increase, Mutations"	4	707	2	2	4	2	2.94919133173684e-06	4	33.5074477511559	26.8435916355881
+"336"	"336"	"AO"	"terminus"	"red"	"15"	"Individual"	"Increase, Heritable mutations in offspring"	4	709	2	0	2	0	0	3	33.0457538855343	25.4462420547766
+"12"	"12"	"MIE"	"origin"	"green"	"16"	"Cellular"	"Inhibition, Acetylcholinesterase (AchE)"	1	698	0	5	5	0	0	26	20.5993631476927	-6.3560969280805
+"10"	"10"	"KE"	""	"white"	"16"	"Cellular"	"Accumulation, Acetylcholine in synapses"	1	699	1	2	3	1	1.47459566586842e-06	11	20.3308033082095	-7.89828394635013
+"442"	"442"	"AO"	"terminus"	"red"	"16, 218, 219"	"Population"	"Decreased, Population trajectory"	1	765	3	0	3	0	0	144	22.8346114207862	-4.43189540231252
+"444"	"444"	"KE"	""	"white"	"16, 94"	"Organ"	"Increased, Atrioventricular block and bradycardia"	1	701	3	2	5	22.5	3.31784024820394e-05	28	19.4726330603693	-6.64801838274446
+"445"	"445"	"KE"	""	"white"	"16, 94"	"Organ"	"Increased, Respiratory distress/arrest"	1	702	3	2	5	17	2.50681263197631e-05	24	19.5048937592676	-7.71045446362031
+"39"	"39"	"KE"	""	"white"	"16"	"Organ"	"Induction, Ataxia, paralysis, or hyperactivity"	1	700	1	1	2	1.5	2.21189349880263e-06	4	19.3461938028729	-9.04031889997635
+"1487"	"1487"	"MIE"	"origin"	"green"	"17"	"Molecular"	"Binding, SH/seleno proteins"	1	692	0	1	1	0	0	213	13.6787695803924	16.7760956050256
+"1392"	"1392"	"KE"	""	"white"	"17, 220"	"Molecular"	"Oxidative Stress "	1	693	2	4	6	89.5	0.000131976312095223	426	14.7312992904015	16.0344240514045
+"1488"	"1488"	"KE"	""	"white"	"17"	"Cellular"	"Glutamate dyshomeostasis"	1	697	1	1	2	0	0	210	15.0502224960823	13.9150957622607
+"1492"	"1492"	"KE"	"terminus"	"white"	"17"	"Cellular"	"Tissue resident cell activation"	1	794	1	0	1	0	0	0	17.3667959637131	12.9033437616278
+"1493"	"1493"	"KE"	"origin"	"white"	"17"	"Tissue"	"Increased Pro-inflammatory mediators"	1	691	0	1	1	0	0	0	18.1424673813085	12.0725000673298
+"266"	"266"	"KE"	""	"white"	"18"	"Cellular"	"Decrease, Steroidogenic acute regulatory protein (STAR)"	1	682	1	1	2	13.5	1.99070414892237e-05	12	10.3785195366972	23.9210018340488
+"447"	"447"	"KE"	""	"white"	"18, 51"	"Cellular"	"Reduction, Cholesterol transport in mitochondria"	1	683	2	1	3	40	5.89838266347368e-05	24	11.5706867840784	26.4252161264459
+"413"	"413"	"KE"	""	"white"	"18, 51, 64"	"Cellular"	"Reduction, Testosterone synthesis in Leydig cells"	1	684	3	1	4	63	9.28995269497104e-05	32	13.8629349264898	29.3786222454738
+"446"	"446"	"KE"	""	"white"	"18, 51, 64"	"Tissue"	"Reduction, testosterone level"	1	685	1	3	4	60	8.84757399521051e-05	32	13.0535618507581	30.866360345821
+"289"	"289"	"KE"	""	"white"	"18"	"Cellular"	"Decrease, Translocator protein (TSPO)"	1	681	1	1	2	13.5	1.99070414892237e-05	12	9.68250185396073	24.0978641808752
+"348"	"348"	"AO"	"terminus"	"red"	"18"	"Organ"	"Malformation, Male reproductive tract"	1	690	1	1	2	5.5	8.1102761622763e-06	16	11.6603679775194	30.0814840214663
+"227"	"227"	"MIE"	"origin"	"green"	"18, 37, 51, 61"	"Molecular"	"Activation, PPARa"	1	640	1	4	5	122	0.000179900671235947	141	8.78628904767909	20.7037408343143
+"27"	"27"	"MIE"	"origin"	"green"	"19"	"Molecular"	"N/A, Androgen receptor, Antagonism"	5	635	0	2	2	0	0	3	35.9813036928414	20.5053977502302
+"310"	"310"	"KE"	""	"white"	"19"	"Cellular"	"Alteration, Wnt pathway"	5	637	2	1	3	1	1.47459566586842e-06	2	36.6642541273135	19.4043642553738
+"286"	"286"	"KE"	""	"white"	"19"	"Cellular"	"Decreased, Transcription of genes by AR"	5	636	1	2	3	1	1.47459566586842e-06	2	37.1390370330477	20.5097452182542
+"240"	"240"	"KE"	""	"white"	"19"	"Organ"	"Feminisation or incomplete development, Primary and accessory male sex organs"	5	638	2	1	3	3	4.42378699760526e-06	3	37.773921619676	19.5470662652247
+"337"	"337"	"AO"	"terminus"	"red"	"19"	"Individual"	"N/A, Impairment of reproductive capacity"	5	639	1	0	1	0	0	3	38.7382512512406	20.3487374962477
+"18"	"18"	"MIE"	"origin"	"green"	"21, 57, 131, 150"	"Molecular"	"Activation, AhR"	1	605	0	10	10	0	0	150	1.80159635440216	-2.44520517403509
+"944"	"944"	"KE"	""	"white"	"21, 150"	"Molecular"	"dimerization, AHR/ARNT"	1	626	1	2	3	7	1.03221696610789e-05	3	3.79899788889073	-4.42554583063573
+"1269"	"1269"	"KE"	""	"white"	"21"	"Molecular"	"Increase, COX-2 expression"	1	632	1	1	2	3	4.42378699760526e-06	1	4.43346484126249	-6.00666546004099
+"317"	"317"	"KE"	""	"white"	"21, 150"	"Organ"	"Altered, Cardiovascular development/function"	1	633	2	1	3	7	1.03221696610789e-05	3	5.34585006343691	-6.59215124222865
+"947"	"947"	"AO"	"terminus"	"red"	"21, 150"	"Individual"	"Increase, Early Life Stage Mortality"	1	634	2	0	2	0	0	4	3.32684652321539	-5.15808760306977
+"25"	"25"	"MIE"	"origin"	"green"	"23"	"Molecular"	"Agonism, Androgen receptor"	1	602	0	4	4	0	0	20	4.07368920311617	25.3467549476188
+"129"	"129"	"KE"	""	"white"	"23"	"Organ"	"Reduction, Gonadotropins, circulating concentrations"	1	603	1	1	2	0	0	6	2.76883371818213	25.4894445604696
+"274"	"274"	"KE"	""	"white"	"23"	"Cellular"	"Reduction, Testosterone synthesis by ovarian theca cells"	1	604	2	1	3	9	1.32713609928158e-05	12	3.77984013016825	26.3639725020435
+"285"	"285"	"KE"	""	"white"	"23, 25, 30, 122, 123"	"Tissue"	"Reduction, Vitellogenin synthesis in liver"	1	738	3	1	4	8	1.17967653269474e-05	18	4.26637344157275	23.5821541846682
+"221"	"221"	"KE"	""	"white"	"23, 25, 30, 122, 123"	"Organ"	"Reduction, Plasma vitellogenin concentrations"	1	739	2	1	3	42	6.19330179664736e-05	32	5.50778578696141	21.6820305119396
+"309"	"309"	"KE"	""	"white"	"23, 25, 30, 122, 123"	"Cellular"	"Reduction, Vitellogenin accumulation into oocytes and oocyte growth/development"	1	740	1	1	2	30	4.42378699760526e-05	32	7.0900665009212	17.9274842051544
+"78"	"78"	"AO"	"terminus"	"red"	"23, 25, 29, 30, 122, 123"	"Individual"	"Reduction, Cumulative fecundity and spawning"	1	741	1	1	2	16	2.35935306538947e-05	32	9.07439288780019	13.4648656375363
+"360"	"360"	"AO"	"terminus"	"red"	"23, 25, 29, 30, 100, 122, 123, 155, 156, 157, 158, 159"	"Population"	"Decrease, Population trajectory"	1	742	3	0	3	0	0	171	9.56843902314361	8.7580348890965
+"36"	"36"	"MIE"	"origin"	"green"	"25"	"Molecular"	"Inhibition, Aromatase"	1	601	0	1	1	0	0	6	3.95324169215139	27.8890836689951
+"51"	"51"	"MIE"	"origin"	"green"	"26"	"Molecular"	"Inhibition, Ca++ ATPase"	1	582	0	1	1	0	0	29	2.64698791977829	21.8296974268305
+"50"	"50"	"KE"	""	"white"	"26"	"Cellular"	"Increase, Ca++ (intracellular)"	1	583	1	1	2	53	7.81535702910262e-05	29	3.70403205491395	20.4014879164045
+"178"	"178"	"KE"	""	"white"	"26"	"Cellular"	"Disruption, Mitochondrial electron transport chain"	1	584	1	2	3	104	0.000153357949250316	29	5.13925772452738	18.1475438089713
+"40"	"40"	"KE"	""	"white"	"26, 238, 245, 258"	"Cellular"	"Decrease, Mitochondrial ATP production"	1	591	4	3	7	244.5	0.000360538640304828	54	9.70770215398371	18.2285480997661
+"257"	"257"	"MIE"	"origin"	"green"	"26, 216, 238"	"Molecular"	"Increase, Reactive oxygen species production"	1	585	1	4	5	102	0.000150408757918579	40	2.55159430699813	15.3774386933736
+"193"	"193"	"KE"	""	"white"	"26"	"Cellular"	"Decreased, Nitric Oxide"	1	589	1	1	2	4	5.89838266347368e-06	0	1.76386921172598	17.5268293249715
+"166"	"166"	"KE"	"terminus"	"white"	"26"	"Organ"	"Decreased, Long-term potentiation (LTP)"	1	590	1	0	1	0	0	0	0.974090321392577	18.8588592574707
+"356"	"356"	"AO"	"terminus"	"red"	"26"	"Individual"	"Increased, Oxidative damage"	1	588	1	0	1	0	0	2	1.01858743571302	16.0886679046359
+"214"	"214"	"KE"	""	"white"	"27"	"Cellular"	"Bile accumulation, Pathological condition"	1	559	1	3	4	71.999999999	0.000106170887941052	368	23.200892334668	13.5849951621514
+"288"	"288"	"KE"	""	"white"	"27"	"Cellular"	"Activation of specific nuclear receptors, Transcriptional change"	1	581	1	1	2	2	2.94919133173684e-06	1	24.4982626429885	14.037187696822
+"357"	"357"	"AO"	"terminus"	"red"	"27"	"Individual"	"Cholestasis, Pathology"	1	793	3	0	3	0	0	66	23.1352507605966	16.3645230653746
+"87"	"87"	"KE"	""	"white"	"27, 144"	"Cellular"	"Release, Cytokine"	1	779	2	2	4	457	0.000673890219301867	392	20.2861294747325	15.0133765065919
+"149"	"149"	"KE"	""	"white"	"27, 115, 206"	"Cellular"	"Increase, Inflammation"	1	782	4	4	8	376	0.000554447970366526	354	22.1433257492446	18.9002720319525
+"249"	"249"	"KE"	""	"white"	"27"	"Tissue"	"Production, Reactive oxygen species"	1	560	1	1	2	109.999999998	0.000162205523242577	360	22.725668047237	14.4731234750356
+"209"	"209"	"MIE"	"origin"	"green"	"27, 108, 144, 149, 210"	"Molecular"	"Peptide Oxidation"	1	561	3	7	10	471.999999994	0.000696009154281046	2160	22.0443394486023	15.6279660089476
+"41"	"41"	"MIE"	"origin"	"green"	"27"	"Molecular"	"Inhibition, Bile Salt Export Pump (ABCB11)"	1	558	0	1	1	0	0	368	25.5445422136751	12.8120020612129
+"79"	"79"	"MIE"	"origin"	"green"	"28, 63, 100, 101, 102, 103"	"Molecular"	"Inhibition, Cyclooxygenase activity"	1	536	0	5	5	0	0	30	17.4006528576273	0.725861391087619
+"243"	"243"	"KE"	""	"white"	"28"	"Tissue"	"Reduction, Prostaglandin E2 concentration"	1	553	1	1	2	4	5.89838266347368e-06	1	20.9295462076165	0.638848754155178
+"119"	"119"	"KE"	""	"white"	"28"	"Tissue"	"N/A, Gap"	1	554	1	1	2	6	8.84757399521051e-06	1	24.3464333617843	1.51397580296568
+"49"	"49"	"KE"	""	"white"	"28"	"Tissue"	"Reduction, Ca and HCO3 transport to shell gland"	1	555	1	1	2	6	8.84757399521051e-06	1	27.3742526975536	2.41084894449762
+"106"	"106"	"KE"	""	"white"	"28"	"Tissue"	"Reduction, Eggshell thickness"	1	556	1	1	2	4	5.89838266347368e-06	1	29.9673221973004	2.2369184328979
+"253"	"253"	"AO"	"terminus"	"red"	"28"	"Individual"	"N/A, Reproductive failure"	1	557	1	0	1	0	0	1	31.600447352242	1.7429279009744
+"111"	"111"	"MIE"	"origin"	"green"	"29"	"Molecular"	"Agonism, Estrogen receptor"	6	529	0	3	3	0	0	3	20.4980379369794	34.5633658400442
+"364"	"364"	"AO"	"terminus"	"red"	"29"	"Individual"	"Impaired development of, Reproductive organs"	6	535	1	0	1	0	0	1	21.174106245694	35.5201725162931
+"252"	"252"	"KE"	""	"white"	"29"	"Organ"	"Increase, Renal pathology due to VTG deposition"	6	533	1	1	2	3	4.42378699760526e-06	1	17.4241195008825	35.6764253073844
+"339"	"339"	"AO"	"terminus"	"red"	"29"	"Individual"	"Altered, Larval development"	6	534	1	0	1	0	0	1	17.4196096724664	34.5800111182171
+"307"	"307"	"KE"	""	"white"	"29"	"Tissue"	"Increase, Vitellogenin synthesis in liver"	6	531	1	1	2	3	4.42378699760526e-06	1	19.5192362365027	35.0981920378115
+"220"	"220"	"KE"	""	"white"	"29"	"Organ"	"Increase, Plasma vitellogenin concentrations"	6	532	1	1	2	4	5.89838266347368e-06	1	18.549630265976	35.7809449780457
+"363"	"363"	"AO"	"terminus"	"red"	"29"	"Individual"	"Altered, Reproductive behaviour"	6	530	1	0	1	0	0	1	20.4332433780312	33.414014661948
+"112"	"112"	"MIE"	"origin"	"green"	"30"	"Molecular"	"Antagonism, Estrogen receptor"	1	528	0	1	1	0	0	2	2.57645816317399	23.7052715978077
+"213"	"213"	"MIE"	"origin"	"green"	"31"	"Molecular"	"N/A, Parent compound is converted to the reactive metabolite and forms free radicals leading to oxidation of heme iron(II) in hemoglobin to iron(III)"	7	518	0	4	4	0	0	6	34.5536406028147	32.6150061696511
+"211"	"211"	"KE"	""	"white"	"31"	"Molecular"	"Propagation, Oxidative stress"	7	521	1	2	3	1	1.47459566586842e-06	3	33.1263281516178	32.9282491207063
+"250"	"250"	"KE"	""	"white"	"31"	"Cellular"	"Damaging, Red blood cells; hemolysis"	7	523	2	3	5	8	1.17967653269474e-05	6	33.5097392508507	31.7199686912143
+"118"	"118"	"KE"	"terminus"	"white"	"31"	"Cellular"	"Formation, Formation of hemoglobin adducts"	7	520	1	0	1	0	0	0	34.7458581134695	33.7226930658225
+"246"	"246"	"KE"	""	"white"	"31"	"Organ"	"Increase, RBC congestion in liver"	7	525	1	1	2	0	0	2	32.8757905378632	30.0474874705422
+"173"	"173"	"KE"	""	"white"	"31"	"Organ"	"N/A, Methemoglobinemia, decreased hemoglobin, hematocrit, red blood cell number"	7	526	3	1	4	5	7.37297832934209e-06	6	32.8454766504136	30.9770981391435
+"161"	"161"	"KE"	""	"white"	"31"	"Organ"	"Increase, Liver and splenic hemosiderosis"	7	524	1	1	2	0	0	2	34.2119552946439	31.0190990765685
+"131"	"131"	"KE"	"terminus"	"white"	"31"	"Cellular"	"Down Regulation, Gulcose-6-phosphate dehydrogenase"	7	522	1	0	1	0	0	0	31.871688003724	33.0893067201998
+"321"	"321"	"AO"	"terminus"	"red"	"31"	"Individual"	"N/A, Cyanosis occurs"	7	527	1	0	1	0	0	6	31.6382343050613	30.836726585524
+"21"	"21"	"KE"	"terminus"	"white"	"31"	"Cellular"	"Altered regulation, Alpha hemoglobin"	7	519	1	0	1	0	0	0	35.8022045031931	32.1241849735794
+"77"	"77"	"KE"	"origin"	"white"	"32"	"Cellular"	"Production, Critical Metabolites (CGA 330050 and CGA 265307)"	8	512	0	1	1	0	0	0	25.8974054739592	38.6707949982789
+"164"	"164"	"KE"	""	"white"	"32"	"Organ"	"Induction, Liver “Dysfunctional” Changes by CGA 330050"	8	513	1	1	2	4	5.89838266347368e-06	0	24.8284180113846	38.477887256308
+"147"	"147"	"KE"	""	"white"	"32"	"Cellular"	"Inhibition, Inducible Nitric Oxide Synthase by Metabolite CGA 265307"	8	514	1	1	2	6	8.84757399521051e-06	0	23.8636013275929	37.8247477486683
+"270"	"270"	"KE"	""	"white"	"32"	"Individual"	"Induction, Sustained Hepatotoxicity"	8	515	1	1	2	6	8.84757399521051e-06	0	22.8539384839285	37.190847527686
+"269"	"269"	"KE"	""	"white"	"32"	"Cellular"	"Induction, Sustained Cell Proliferation"	8	516	1	1	2	4	5.89838266347368e-06	0	21.9366614499323	37.6692553542091
+"347"	"347"	"KE"	"terminus"	"white"	"32"	"Individual"	"Formation, Liver tumor"	8	517	1	0	1	0	0	0	20.9791210497881	37.5328411844722
+"9"	"9"	"MIE"	"origin"	"green"	"33"	"Molecular"	"Activation, 5HT2c"	9	509	0	1	1	0	0	1	39.8673041392385	23.9289918335917
+"294"	"294"	"KE"	""	"white"	"33"	"Molecular"	"N/A, Unknown"	9	510	1	1	2	1	1.47459566586842e-06	1	40.530426035648	24.9371721716574
+"759"	"759"	"AO"	"terminus"	"red"	"33"	"Individual"	"Increased, Kidney Failure"	9	511	1	0	1	0	0	1	41.4168077473472	24.5448136524842
+"167"	"167"	"MIE"	"origin"	"green"	"34, 58"	"Molecular"	"Activation, LXR"	1	499	1	10	11	34.499999999	5.08735504709859e-05	498	1.26136326344432	2.67315888490559
+"54"	"54"	"KE"	""	"white"	"34, 57, 58, 60"	"Molecular"	"Up Regulation, CD36"	1	618	4	2	6	11.7	1.72527692906605e-05	246	-0.294728031885527	0.295062097019488
+"115"	"115"	"KE"	""	"white"	"34"	"Cellular"	"Increase, FA Influx"	1	620	1	1	2	8	1.17967653269474e-05	24	-2.1856512392102	2.49846084207557
+"66"	"66"	"KE"	""	"white"	"34, 58"	"Molecular"	"Activation, ChREBP"	1	507	1	2	3	1.3666666658	2.01528074207552e-06	82	1.60241270750616	4.6848311003644
+"264"	"264"	"KE"	""	"white"	"34"	"Molecular"	"Activation, SREBP-1c"	1	506	1	1	2	0.5	7.37297832934209e-07	8	0.0161030663208238	3.82255998580473
+"116"	"116"	"KE"	""	"white"	"34"	"Molecular"	"Activation, FAS"	1	505	1	1	2	0.5	7.37297832934209e-07	8	-1.18798516059658	3.88685254389413
+"258"	"258"	"KE"	""	"white"	"34"	"Molecular"	"Activation, SCD-1"	1	504	1	1	2	0.5	7.37297832934209e-07	8	0.606865538237612	4.42005137851025
+"89"	"89"	"KE"	""	"white"	"34"	"Cellular"	"Synthesis, De Novo FA"	1	508	4	1	5	23.5	3.46529981479078e-05	32	-0.64172144590096	4.94582893094948
+"291"	"291"	"KE"	""	"white"	"34, 57"	"Cellular"	"Accumulation, Triglyceride"	1	621	3	2	5	76.5	0.000112806568438934	92	-2.03839385100901	5.00998881673865
+"176"	"176"	"KE"	""	"white"	"34, 207"	"Cellular"	"Damaging, Mitochondria"	1	622	2	1	3	53.999999997	7.96281659524708e-05	72	-3.28850073550042	10.9412207161816
+"228"	"228"	"MIE"	"origin"	"green"	"34, 58, 72"	"Molecular"	"peroxisome proliferator activated receptor promoter demethylation"	1	494	1	4	5	32.5	4.79243591407236e-05	218	-0.644914372915451	3.08988991438763
+"231"	"231"	"MIE"	"origin"	"green"	"36"	"Molecular"	"Decreased, PPAR-alpha activation"	1	490	0	1	1	0	0	25	-7.52733917014998	12.1714967111001
+"140"	"140"	"KE"	""	"white"	"36"	"Cellular"	"Decreased, HSD17B10 expression"	1	491	3	1	4	135	0.000199070414892237	75	-6.66553571889454	10.1381350286233
+"179"	"179"	"KE"	""	"white"	"36, 60"	"Molecular"	"Decreased, Mitochondrial fatty acid beta-oxidation"	1	493	2	1	3	279.5	0.000412149488610223	100	-2.97312827789097	4.06038452463842
+"327"	"327"	"KE"	""	"white"	"36, 57, 58, 60"	"Organ"	"Accumulation, Fatty acid"	1	643	7	3	10	610.5	0.00090024065401267	700	0.756723940832017	1.6040453322154
+"8"	"8"	"KE"	""	"white"	"36"	"Cellular"	"Decreased, 3-hydroxyacyl-CoA dehydrogenase type-2 activity"	1	492	1	1	2	176	0.000259528837192842	75	-5.30006396250974	6.78835250045621
+"232"	"232"	"MIE"	"origin"	"green"	"36"	"Molecular"	"Decreased, PPAR-beta activation"	1	489	0	1	1	0	0	25	-7.23327595913791	11.0092202817666
+"233"	"233"	"MIE"	"origin"	"green"	"36"	"Molecular"	"Decreased, PPAR-gamma activation"	1	488	0	1	1	0	0	25	-6.70860554322797	12.3908097722466
+"459"	"459"	"AO"	"terminus"	"red"	"36, 58, 60, 61, 62, 213"	"Organ"	"Increased, Liver Steatosis"	1	646	6	1	7	1505	0.00221926647713197	1104	3.33590632697817	1.64387911242182
+"1170"	"1170"	"KE"	""	"white"	"37"	"Cellular"	"modulation, Genes/proteins that regulate hepatocyte fate"	1	676	1	1	2	12	1.7695147990421e-05	6	12.3084222190341	23.5234267270119
+"716"	"716"	"KE"	""	"white"	"37, 107, 117"	"Cellular"	"Increase, Mitogenic cell proliferation (hepatocytes)"	1	677	3	2	5	21	3.09665089832368e-05	10	15.9842663534766	25.593301120748
+"1171"	"1171"	"KE"	""	"white"	"37"	"Cellular"	"Increase, Clonal Expansion / Cell Proliferatin to form Pre-Neoplastic Altered Hepatic Foci"	1	679	1	1	2	4	5.89838266347368e-06	5	18.2135917646231	24.6667182542017
+"719"	"719"	"AO"	"terminus"	"red"	"37, 107, 108, 117, 118"	"Tissue"	"Increase, Adenomas/carcinomas (hepatocellular)"	1	680	3	0	3	0	0	18	20.7776766045638	23.6227342972672
+"244"	"244"	"MIE"	"origin"	"green"	"38, 258"	"Molecular"	"Alkylation, Protein"	1	486	0	2	2	0	0	117	14.1443068648924	14.8009770180022
+"134"	"134"	"KE"	""	"white"	"38"	"Cellular"	"Increased, Activation and Recruitment of Hepatic macrophages (Kupffer Cells)"	1	776	1	1	2	42	6.19330179664736e-05	110	17.8254682313793	13.9421967182978
+"276"	"276"	"KE"	""	"white"	"38"	"Cellular"	"Up Regulation, TGFbeta1 expression"	1	777	1	1	2	4	5.89838266347368e-06	110	18.7812724745345	15.0011503473098
+"265"	"265"	"KE"	""	"white"	"38"	"Cellular"	"Activation, Stellate cells"	1	778	2	1	3	126	0.000185799053899421	220	18.1700420621412	15.9462024206325
+"68"	"68"	"KE"	""	"white"	"38, 241"	"Tissue"	"Accumulation, Collagen"	1	787	3	2	5	110	0.000162205523245526	344	20.0078005971199	19.5786068870044
+"344"	"344"	"AO"	"terminus"	"red"	"38"	"Organ"	"N/A, Liver fibrosis"	1	789	1	0	1	0	0	172	18.9680260128771	20.6346493791347
+"75"	"75"	"MIE"	"origin"	"green"	"39"	"Molecular"	"N/A, Covalent binding to protein, possibly lysine residue"	10	480	0	2	2	0	0	4	37.41297487287	14.015664809006
+"151"	"151"	"KE"	""	"white"	"39"	"Molecular"	"Activation, Inflammatory cytokines, chemokines, cytoprotective gene pathways"	10	481	1	1	2	0	0	2	38.1280988254068	14.8400228567305
+"398"	"398"	"KE"	""	"white"	"39, 40"	"Cellular"	"Activation, Dendritic Cells"	10	482	4	1	5	12	1.7695147990421e-05	8	38.7474545448726	13.8624588796048
+"272"	"272"	"KE"	""	"white"	"39, 40"	"Organ"	"Activation/Proliferation, T-cells"	10	483	1	2	3	10	1.47459566586842e-05	8	38.0781074460937	12.5271653268028
+"313"	"313"	"AO"	"terminus"	"red"	"39"	"Organ"	"Increase, Allergic Respiratory Hypersensitivity Response"	10	485	1	0	1	0	0	4	36.7896810844265	12.5329939776446
+"396"	"396"	"MIE"	"origin"	"green"	"40"	"Molecular"	"Covalent Binding, Protein"	10	478	0	2	2	0	0	4	39.6003415016455	15.0219555150134
+"826"	"826"	"KE"	""	"white"	"40"	"Cellular"	"Activation, Keratinocytes"	10	479	1	1	2	0	0	2	40.001624479669	14.0819811627313
+"827"	"827"	"AO"	"terminus"	"red"	"40"	"Organ"	"sensitisation, skin"	10	484	1	0	1	0	0	4	38.6003905864512	11.5230065617798
+"165"	"165"	"MIE"	"origin"	"green"	"41"	"Cellular"	"Activation, Long term AHR receptor driven direct and indirect gene expression changes"	11	473	0	4	4	0	0	4	42.053336128205	7.18580285445774
+"853"	"853"	"KE"	""	"white"	"41"	"Cellular"	"Changes/Inhibition, Cellular Homeostasis and Apoptosis"	11	474	1	1	2	0	0	1	40.842360661406	6.69271672125228
+"139"	"139"	"KE"	""	"white"	"41"	"Tissue"	"N/A, Hepatotoxicity, Hepatopathy, including a constellation of observable effects"	11	475	2	1	3	2	2.94919133173684e-06	2	41.4313329950515	5.62072013516075
+"854"	"854"	"KE"	""	"white"	"41"	"Tissue"	"Alterations, Cellular proliferation / hyperplasia"	11	476	2	1	3	2	2.94919133173684e-06	3	41.8771636851342	6.44537856034134
+"856"	"856"	"AO"	"terminus"	"red"	"41"	"Organ"	"Formation, Hepatocellular and Bile duct tumors"	11	477	2	0	2	0	0	4	41.6168903867264	8.06266665612032
+"279"	"279"	"MIE"	"origin"	"green"	"42, 119, 159, 175"	"Molecular"	"Thyroperoxidase, Inhibition"	1	442	0	3	3	0	0	615	9.39352205580114	7.54676559520532
+"277"	"277"	"MIE"	"origin"	"green"	"42, 54, 128, 134, 159, 175, 188, 192, 193"	"Cellular"	"Thyroid hormone synthesis, Decreased"	1	449	4	6	10	394.999999964	0.00058246528796494	2544	10.3699609089075	9.47892882539772
+"281"	"281"	"KE"	""	"white"	"42, 54, 134, 159, 175, 194"	"Tissue"	" Thyroxine (T4) in serum, Decreased"	1	459	2	7	9	101.5	0.000149671460085645	1330	6.57026566179188	10.6559378369516
+"280"	"280"	"KE"	""	"white"	"42, 54, 134"	"Organ"	"Thyroxine (T4) in neuronal tissue, Decreased "	1	468	1	2	3	45	6.63568049640788e-05	1267	8.8315294764222	9.8351171748084
+"756"	"756"	"KE"	""	"white"	"42, 134"	"Tissue"	"Hippocampal gene expression, Altered "	1	469	2	1	3	3	4.42378699760526e-06	14	6.33333985683005	9.82747383439701
+"757"	"757"	"KE"	""	"white"	"42, 134"	"Tissue"	"Hippocampal anatomy, Altered "	1	470	2	1	3	4	5.89838266347368e-06	21	5.14196219635313	11.1771742043405
+"758"	"758"	"KE"	""	"white"	"42, 134"	"Tissue"	"Hippocampal Physiology, Altered"	1	471	2	1	3	3	4.42378699760526e-06	28	4.4302797078775	12.2739922263291
+"402"	"402"	"AO"	"terminus"	"red"	"42, 134"	"Individual"	"Cognitive Function, Decreased "	1	472	2	0	2	0	0	35	4.77394420263789	13.0529255045737
+"305"	"305"	"MIE"	"origin"	"green"	"43"	"Molecular"	"Inhibition, VegfR2"	1	440	0	1	1	0	0	2	9.14570076751613	-8.71442755211169
+"28"	"28"	"KE"	""	"white"	"43"	"Molecular"	"Reduction, Angiogenesis"	1	441	1	1	2	5	7.37297832934209e-06	2	8.05479524308047	-8.19787135312266
+"110"	"110"	"KE"	""	"white"	"43, 150"	"Cellular"	"Impairment, Endothelial network"	1	629	2	2	4	20	2.94919133173684e-05	4	7.15630156954969	-7.22046705023274
+"298"	"298"	"KE"	""	"white"	"43"	"Molecular"	"Insufficiency, Vascular"	1	630	1	1	2	7	1.03221696610789e-05	2	8.63526718380873	-6.97681492614669
+"1001"	"1001"	"AO"	"terminus"	"red"	"43"	"Molecular"	"Increased, Developmental Defects"	1	631	1	0	1	0	0	2	9.86218662496852	-7.07108327122292
+"376"	"376"	"KE"	""	"white"	"46"	"Cellular"	"Increased, Induced Mutations in Critical Genes"	12	437	1	2	3	2	2.94919133173684e-06	2	41.998169260986	21.5754693101182
+"491"	"491"	"KE"	""	"white"	"46"	"Organ"	"Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)"	12	438	2	1	3	0	0	2	40.9788913595473	20.9441152541445
+"378"	"378"	"AO"	"terminus"	"red"	"46"	"Individual"	"Tumorigenesis, Hepatocellular carcinoma"	12	439	3	0	3	0	0	4	40.8781040937406	21.9185039312562
+"493"	"493"	"KE"	""	"white"	"46"	"Molecular"	"Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts"	12	436	1	1	2	2	2.94919133173684e-06	2	41.4452634296397	22.7520096178953
+"409"	"409"	"KE"	"origin"	"white"	"46"	"Molecular"	"Metabolism of AFB1, Production of Reactive Electrophiles"	12	434	0	1	1	0	0	0	38.794308727866	22.1923852360826
+"373"	"373"	"MIE"	"origin"	"green"	"46"	"Molecular"	"Formation, Pro-mutagenic DNA Adducts"	12	435	1	3	4	4	5.89838266347368e-06	4	40.0034651808248	21.9831617474194
+"388"	"388"	"KE"	""	"white"	"48"	"Molecular"	"Overactivation, NMDARs"	1	432	1	1	2	48.999999999	7.22551876260779e-05	352	25.4552448796095	10.3011856078642
+"389"	"389"	"KE"	""	"white"	"48"	"Cellular"	"Increased, Intracellular Calcium overload"	1	433	1	1	2	95.999999998	0.000141561183920419	352	23.0498179504675	10.2596778719755
+"875"	"875"	"MIE"	"origin"	"green"	"48"	"Molecular"	"Binding of agonist, Ionotropic glutamate receptors"	1	431	0	1	1	0	0	352	26.9366590687051	11.2211157022912
+"618"	"618"	"KE"	""	"white"	"48"	"Organ"	"Decreased, Neuronal network function in adult brain"	1	797	1	1	2	0	0	1650	15.6106027944243	7.35238055095117
+"416"	"416"	"KE"	""	"white"	"51"	"Cellular"	"Increase proliferation, Leydig cell "	1	688	1	1	2	13	1.91697436562894e-05	8	12.900959289401	33.4108535934532
+"415"	"415"	"KE"	""	"white"	"51"	"Cellular"	"Hyperplasia, Leydig cell"	1	689	1	1	2	2	2.94919133173684e-06	8	11.6851136611	31.5565751922738
+"414"	"414"	"KE"	""	"white"	"51"	"Cellular"	"Increase, Luteinizing hormone (LH) "	1	687	1	1	2	22	3.24411046491052e-05	8	13.9650149515754	33.0816483196708
+"424"	"424"	"MIE"	"origin"	"green"	"54, 134"	"Molecular"	"Inhibition, Na+/I- symporter (NIS)"	1	429	0	2	2	0	0	439	12.2302019088852	6.24127838076467
+"425"	"425"	"KE"	""	"white"	"54, 134, 188"	"Cellular"	"Decrease of Thyroidal iodide"	1	430	2	1	3	128.999999988	0.000190222840879331	848	10.1886438045114	6.49561308866762
+"851"	"851"	"KE"	""	"white"	"54"	"Cellular"	"Decrease of GABAergic interneurons"	1	726	2	1	3	5.833333331	8.60180804745839e-06	300	11.9717385452217	9.29140770615153
+"450"	"450"	"KE"	""	"white"	"57"	"Cellular"	"Suppression, VLDL secretion"	1	617	1	1	2	1	1.47459566586842e-06	1	-0.498308331850884	-1.4711492924696
+"455"	"455"	"AO"	"terminus"	"red"	"57"	"Organ"	"Accumulation, Liver lipid"	1	645	3	0	3	0	0	52	-1.39109637701281	1.57032205285267
+"451"	"451"	"KE"	""	"white"	"57, 58, 61"	"Molecular"	"Inhibition, Mitochondrial fatty acid beta-oxidation"	1	616	3	2	5	126.7	0.000186831270865529	148	2.590578624715	-0.819470593418024
+"216"	"216"	"KE"	""	"white"	"57"	"Cellular"	"Decreased, PCK1 expression (control point for glycolysis/gluconeogenesis pathway)"	1	615	1	1	2	0.5	7.37297832934209e-07	25	0.610173129128189	-1.16558885678266
+"465"	"465"	"KE"	""	"white"	"57, 58, 60"	"Cellular"	"Increased, FA Influx"	1	619	2	2	4	48.7	7.1812808927792e-05	296	-0.598188559394086	0.924176608521598
+"466"	"466"	"KE"	""	"white"	"57"	"Molecular"	"Up Regulation, LDLR (low density lipoprotein receptor)"	1	613	1	1	2	1	1.47459566586842e-06	25	1.06695466105258	-3.34761652474596
+"467"	"467"	"KE"	""	"white"	"57"	"Cellular"	"Increased, LDL uptake"	1	614	1	1	2	43	6.3407613632342e-05	25	1.32195599918853	-1.50752367754114
+"80"	"80"	"KE"	"terminus"	"white"	"57"	"Molecular"	"Up Regulation, CYP1A1"	1	612	1	0	1	0	0	0	2.02371220097263	-4.35450574051678
+"462"	"462"	"KE"	""	"white"	"57, 58, 60"	"Molecular"	"Up Regulation, SCD-1"	1	611	4	2	6	89.5	0.000131976312095223	144	0.149306908054265	1.02686504134331
+"456"	"456"	"MIE"	"origin"	"green"	"58"	"Molecular"	"Suppression, Constitutive androstane receptor, NR1l3"	1	428	0	2	2	0	0	358	-0.11882770662344	2.37281013926716
+"457"	"457"	"KE"	""	"white"	"58, 62"	"Molecular"	"Activation, SREBF1"	1	503	3	2	5	203.5	0.000300080218004223	140	2.13290827832087	1.38581594338814
+"458"	"458"	"KE"	""	"white"	"58, 61"	"Cellular"	"Increased, De Novo FA synthesis"	1	642	4	2	6	301.1	0.000444000754992981	333	3.6122555369292	6.09597546692454
+"454"	"454"	"KE"	""	"white"	"58, 60"	"Cellular"	"Increased, Triglyceride formation"	1	644	3	1	4	120	0.00017695147990421	540	1.35888970452826	0.326523863264648
+"463"	"463"	"KE"	""	"white"	"58"	"Molecular"	"Up Regulation, FAS"	1	502	1	1	2	0.8666666658	1.27798290914131e-06	74	2.91386610808622	4.2339691365692
+"468"	"468"	"MIE"	"origin"	"green"	"58"	"Molecular"	"Inhibition, PPAR alpha"	1	501	1	1	2	2.2	3.24411046491052e-06	111	2.67261107829304	0.385252048919903
+"470"	"470"	"KE"	""	"white"	"58"	"Molecular"	"Up Regulation, Acetyl-CoA carboxylase-1 (ACC-1)"	1	500	1	1	2	0.8666666658	1.27798290914131e-06	74	3.6977275346431	3.82317541114261
+"474"	"474"	"KE"	""	"white"	"60"	"Molecular"	"Down Regulation, HMGCS2"	1	426	1	1	2	23.5	3.46529981479078e-05	25	-3.98614908273648	2.40007149145013
+"477"	"477"	"KE"	""	"white"	"60"	"Cellular"	"Decreased, Ketogenesis"	1	427	1	1	2	64.5	9.5111420448513e-05	25	-2.36266292789615	1.29992393088572
+"245"	"245"	"MIE"	"origin"	"green"	"60"	"Molecular"	"Activation, PXR/SXR"	1	423	0	3	3	0	0	107	-2.01569121603568	0.00607597204015253
+"471"	"471"	"KE"	""	"white"	"60"	"Molecular"	"Inhibition, FoxA2"	1	424	1	2	3	4	5.89838266347368e-06	50	-3.83752155456427	1.53636658939268
+"472"	"472"	"KE"	""	"white"	"60"	"Molecular"	"Down Regulation, CPT1A"	1	425	1	1	2	23.5	3.46529981479078e-05	25	-4.45279236500615	3.62691455084004
+"478"	"478"	"MIE"	"origin"	"green"	"61"	"Molecular"	"Activation, NRF2"	1	419	0	1	1	0	0	47	7.66560022125573	25.5311434950067
+"479"	"479"	"MIE"	"origin"	"green"	"61"	"Molecular"	"Activation, NR1H4"	1	420	1	2	3	64	9.43741226155788e-05	94	8.25934260035161	23.9164264844226
+"480"	"480"	"KE"	""	"white"	"61"	"Molecular"	"Activation, SHP"	1	421	1	1	2	2	2.94919133173684e-06	0	8.99752237210132	25.8845660256466
+"483"	"483"	"KE"	""	"white"	"61"	"Molecular"	"Activation, LXR alpha"	1	641	1	1	2	132	0.000194646627894631	111	5.82529052254454	13.5706082947992
+"482"	"482"	"KE"	"origin"	"white"	"61"	"Molecular"	"Decreased, DHB4/HSD17B4"	1	418	0	1	1	0	0	0	3.38596986774678	-2.6601776224974
+"878"	"878"	"KE"	"terminus"	"white"	"61"	"Molecular"	"Inhibition, SREBP1c"	1	422	1	0	1	0	0	0	9.59246993241127	27.1481065432738
+"486"	"486"	"MIE"	"origin"	"green"	"62"	"Organ"	"systemic inflammation leading to hepatic steatosis"	1	416	0	1	1	0	0	28	7.36699268305368	-1.19130832386287
+"484"	"484"	"KE"	""	"white"	"62"	"Molecular"	"Activation, AKT2"	1	417	1	1	2	49	7.22551876275525e-05	28	5.10907120451713	-0.084127355067724
+"685"	"685"	"KE"	""	"white"	"63"	"Organ"	"Reduced, Prostaglandins, ovary"	1	552	1	1	2	6	8.84757399521051e-06	5	15.9057414423532	4.99860381016643
+"488"	"488"	"KE"	""	"white"	"63, 216, 238"	"Organ"	"Decrease, Ovulation"	1	654	2	2	4	410	0.000604584223006052	550	14.0538025018076	9.60564262541759
+"675"	"675"	"AO"	"terminus"	"red"	"63, 100, 101, 102, 103"	"Individual"	"Reduced, Reproductive Success"	1	656	4	3	7	294	0.000433531125765315	464	12.4138398857886	5.51888396065453
+"686"	"686"	"AO"	"terminus"	"red"	"63, 103"	"Population"	"Declining, Population trajectory"	1	658	1	0	1	0	0	116	13.714797558078	4.33683814938265
+"494"	"494"	"MIE"	"origin"	"green"	"64"	"Molecular"	"Glucocorticoid Receptor Agonist, Activation"	1	413	0	2	2	0	0	8	15.7748434117234	32.3661987871623
+"496"	"496"	"KE"	""	"white"	"64"	"Cellular"	"Increased apoptosis, decreased number of adult Leydig Cells "	1	415	1	1	2	4	5.89838266347368e-06	4	14.7425024628243	31.3583653941335
+"495"	"495"	"KE"	""	"white"	"64"	"Cellular"	"Repressed expression of steroidogenic enzymes "	1	414	1	1	2	4	5.89838266347368e-06	4	15.4382990689246	30.7547919934133
+"520"	"520"	"KE"	""	"white"	"64"	"Individual"	"Decreased sperm quantity or quality in the adult, Decreased fertility "	1	686	1	1	2	5.5	8.1102761622763e-06	8	11.8552357284916	29.1036999510071
+"1028"	"1028"	"MIE"	"origin"	"green"	"72, 163"	"Molecular"	"Activation of specific nuclear receptors, PPAR-gamma activation"	1	495	2	3	5	31	4.5712465641921e-05	9	-2.03014912774464	7.56818935035337
+"1449"	"1449"	"KE"	""	"white"	"72"	"Tissue"	"increased adipogenesis"	1	497	2	1	3	4	5.89838266347368e-06	3	-2.63843548842893	11.8345211777823
+"1448"	"1448"	"KE"	"origin"	"white"	"72"	"Molecular"	"activation of CCAAT/enhancer-binding protein alpha"	1	412	0	2	2	0	0	0	-3.40250624589324	9.37744975910262
+"1454"	"1454"	"MIE"	"origin"	"green"	"72"	"Individual"	"chronic high fat diet"	1	410	0	1	1	0	0	2	-0.805261144505194	22.6656545675249
+"1450"	"1450"	"KE"	""	"white"	"72"	"Molecular"	"decreased dopamine"	1	411	4	1	5	8	1.17967653269474e-05	2	-1.90955248937474	21.086352103081
+"1451"	"1451"	"KE"	""	"white"	"72"	"Individual"	"decreased reward"	1	411	1	3	4	8	1.17967653269474e-05	2	-2.59660081315417	20.5992852237902
+"1452"	"1452"	"KE"	""	"white"	"72"	"Cellular"	"decreased DNA methylation of tyrosine hydroxylase"	1	411	1	2	3	1.5	2.21189349880263e-06	1	-2.7490622682303	19.074714721986
+"1453"	"1453"	"KE"	""	"white"	"72"	"Cellular"	"decreased methylation of dopamine transporter promoter"	1	411	1	2	3	1.5	2.21189349880263e-06	1	-2.01739483361486	19.0630925852945
+"1447"	"1447"	"AO"	"terminus"	"red"	"72"	"Individual"	"obesity"	1	498	3	0	3	0	0	5	-2.43856636235977	16.2678590658859
+"559"	"559"	"MIE"	"origin"	"green"	"77, 78, 79, 80, 87, 88, 89, 90, 178"	"Molecular"	"Activation, Nicotinic acetylcholine receptor"	1	408	0	3	3	0	0	397	18.179859678763	7.61492500403885
+"560"	"560"	"KE"	""	"white"	"77, 81, 85, 87, 88, 89, 180, 182, 183"	"Individual"	"Abnormal, Foraging activity and behavior"	1	807	4	3	7	249.66666665	0.000368157384553905	3094	19.5446773460741	5.24014347263815
+"1107"	"1107"	"KE"	""	"white"	"77, 79, 87, 88, 89, 178, 179, 180, 181, 182, 183, 184, 185"	"Population"	"Weakened, Colony"	1	811	5	1	6	33.166666664	4.8907422914037e-05	1363	20.9120808701641	7.15151931426864
+"563"	"563"	"AO"	"terminus"	"red"	"77, 78, 79, 80, 81, 82, 84, 85, 86, 87, 88, 89, 90, 178, 179, 180, 181, 182, 183, 184, 185"	"Population"	"Death/Failure, Colony"	1	812	4	0	4	0	0	3167	22.2904378924725	5.73422506453982
+"1243"	"1243"	"KE"	""	"white"	"77, 87, 88, 89"	"Cellular"	"Altered, Ca2+-calmodulin activated signal transduction"	1	772	2	1	3	106.666666661	0.000157290204350942	195	17.5791005576601	8.11483835395763
+"564"	"564"	"KE"	""	"white"	"78, 82, 86, 90"	"Population"	"Abnormal, Roll change within caste"	1	803	2	2	4	171	0.0002521558588635	1764	19.8312207935221	4.20756495196499
+"565"	"565"	"KE"	""	"white"	"78, 82, 90"	"Population"	"Reduced, Brood care"	1	805	1	1	2	30.5	4.49751678089868e-05	882	21.6325213947514	2.53205051095319
+"566"	"566"	"AO"	"terminus"	"red"	"78, 82, 86, 90"	"Population"	"impaired, Larval development"	1	806	2	1	3	6	8.84757399521051e-06	1764	22.9131072572916	3.42518093948324
+"568"	"568"	"AO"	"terminus"	"red"	"79, 80, 84"	"Population"	"impaired, Hive thermoregulation"	1	810	2	2	4	14	2.06443393221579e-05	1401	21.4314084353285	7.95645441331475
+"664"	"664"	"KE"	""	"white"	"80"	"Cellular"	"Overwhelmed, Mitochondrial DNA repair mechanisms"	1	769	1	1	2	41.666666661	6.14414860694947e-05	60	22.1881753833714	9.45198644680279
+"570"	"570"	"KE"	""	"white"	"80"	"Cellular"	"Accumulation, Damaged mitochondrial DNA"	1	770	1	1	2	28.666666661	4.22717424132053e-05	60	24.1644629253594	8.80918456866162
+"571"	"571"	"KE"	""	"white"	"80"	"Individual"	"Accelerated, Aging"	1	771	1	1	2	13.666666661	2.0152807425179e-05	60	24.0856602242706	7.55499194483958
+"572"	"572"	"AO"	"terminus"	"red"	"80, 81, 84, 85"	"Population"	"Decrease, Number of worker bees"	1	809	3	2	5	83.833333328	0.000123620269980771	2275	22.1399410229888	6.42841644493185
+"573"	"573"	"KE"	"origin"	"white"	"81"	"Individual"	"Increase, Energetic demands and therefore metabolic stress"	1	406	0	1	1	0	0	0	21.9808769605452	1.13349742205011
+"574"	"574"	"KE"	""	"white"	"81"	"Individual"	"Increased, Appetite and hunger"	1	407	1	1	2	6	8.84757399521051e-06	0	20.3764923396829	2.62757315071173
+"576"	"576"	"KE"	""	"white"	"84, 85"	"Individual"	"Increased, Viral susceptibility"	1	720	1	2	3	48.999999993	7.22551876172303e-05	12	23.0316196501932	5.12398333985574
+"577"	"577"	"KE"	""	"white"	"84"	"Individual"	"impaired, Development"	1	721	1	1	2	10.666666664	1.57290204319975e-05	5	24.2764939685521	5.40171385800767
+"578"	"578"	"KE"	"origin"	"white"	"86"	"Molecular"	"Decreased, Glucose oxidase enzyme activity"	1	403	0	1	1	0	0	0	27.9267598012482	4.51180773611273
+"579"	"579"	"KE"	""	"white"	"86"	"Molecular"	"Decreased, Hydrogen peroxide production"	1	404	1	1	2	6	8.84757399521051e-06	0	26.2795289932271	4.09287024609059
+"580"	"580"	"KE"	""	"white"	"86"	"Population"	"Reduced, Antiseptic incorporated in food"	1	405	1	1	2	10	1.47459566586842e-05	0	23.7303176572891	3.84040903079345
+"561"	"561"	"KE"	""	"white"	"86"	"Population"	"Reduced, Food storage"	1	804	1	1	2	30.5	4.49751678089868e-05	882	21.7094525772921	3.42390888512166
+"1108"	"1108"	"KE"	""	"white"	"87, 89, 184"	"Population"	"Abnormal, Role change within caste"	1	808	1	1	2	0	0	442	20.4510577310574	5.58795086117884
+"663"	"663"	"KE"	""	"white"	"88, 89, 90"	"Molecular"	"Desensitization, Nicotinic acetylcholine receptor"	1	409	1	2	3	1	1.47459566586842e-06	30	17.1615432367521	7.01066931596251
+"584"	"584"	"MIE"	"origin"	"green"	"91, 93, 94, 197"	"Molecular"	"Inhibition, sodium channel"	1	397	0	2	2	0	0	15	22.6455312699004	-5.53179316249524
+"585"	"585"	"KE"	""	"white"	"91, 93, 94, 95"	"Cellular"	"Decreased, Sodium conductance 1"	1	400	2	2	4	24	3.53902959808421e-05	30	19.6971795795213	-4.88823251666636
+"586"	"586"	"KE"	""	"white"	"91, 93, 95"	"Individual"	"Reduced, swimming speed"	1	401	1	2	3	12	1.7695147990421e-05	16	16.5684294865214	-3.66417507079889
+"587"	"587"	"AO"	"terminus"	"red"	"91, 95"	"Individual"	"Reduced, feeding 1"	1	402	1	2	3	2	2.94919133173684e-06	10	15.1216906343039	-3.41828013954425
+"588"	"588"	"AO"	"terminus"	"red"	"91, 93, 95, 98, 99"	"Population"	"Increased, predation"	1	800	4	2	6	120.5	0.000177688777737144	1341	14.0540283891282	-1.18971698159185
+"592"	"592"	"AO"	"terminus"	"red"	"91, 95"	"Population"	"Reduced, survival"	1	802	2	0	2	0	0	449	14.0097188451086	-3.06629122630575
+"590"	"590"	"KE"	""	"white"	"94"	"Tissue"	"N/A, hypoxia"	1	703	1	1	2	8	1.17967653269474e-05	6	20.5814643501374	-9.23882712065859
+"591"	"591"	"AO"	"terminus"	"red"	"94"	"Individual"	"Increased, amputations"	1	704	1	0	1	0	0	6	21.6965996166218	-9.87544723386395
+"593"	"593"	"MIE"	"origin"	"green"	"95"	"Molecular"	"Inhibition, Ether-a-go-go (ERG) voltage-gated potassium channel "	1	396	0	1	1	0	0	15	20.8092763658454	-5.0831737795726
+"598"	"598"	"MIE"	"origin"	"green"	"96"	"Molecular"	"modulation, sodium channel"	1	391	0	1	1	0	0	3	32.2929798819003	-4.79692140185646
+"599"	"599"	"KE"	""	"white"	"96"	"Cellular"	"prolonged, Depolarization of neuronal membrane"	1	392	1	1	2	6	8.84757399521051e-06	3	30.6096346527933	-5.18043382592334
+"600"	"600"	"KE"	""	"white"	"96"	"Molecular"	"Overactivation, Neuronotransmitter release"	1	393	1	1	2	10	1.47459566586842e-05	3	28.1967642937843	-5.84692462297705
+"601"	"601"	"KE"	""	"white"	"96"	"Tissue"	"Overactivation, muscle contraction"	1	394	1	1	2	12	1.7695147990421e-05	3	25.2720892197171	-6.52302496430161
+"602"	"602"	"KE"	""	"white"	"96"	"Organ"	"Increased, Ataxia, paralysis, or hyperactivity"	1	395	1	1	2	12	1.7695147990421e-05	3	22.250025100573	-6.39113932310163
+"1143"	"1143"	"KE"	""	"white"	"97"	"Individual"	"Depletion, energy reserves"	1	387	3	1	4	3	4.42378699760526e-06	24	27.2290127519399	0.315400526161446
+"623"	"623"	"AO"	"terminus"	"red"	"97"	"Population"	"Increase, predation"	1	388	3	1	4	16	2.35935306538947e-05	36	28.1023283747876	0.4737026667263
+"622"	"622"	"KE"	""	"white"	"97"	"Individual"	"Increased, locomotion"	1	386	1	2	3	3.5	5.16108483053947e-06	12	26.5121231906316	1.11386343541249
+"1139"	"1139"	"KE"	""	"white"	"97"	"Organ"	"Increased, water retention in foot"	1	379	1	2	3	1	1.47459566586842e-06	6	27.7612882792251	-0.680859166597116
+"1142"	"1142"	"KE"	""	"white"	"97, 195, 203, 204"	"Tissue"	"Increased, valve movement"	1	379	3	5	8	23.499999996	3.46529981420095e-05	34	26.5286785014714	-1.5083322760134
+"625"	"625"	"KE"	""	"white"	"97"	"Organ"	"Increased, muscular waves in foot"	1	378	2	2	4	4	5.89838266347368e-06	18	24.9749629065788	-0.375066409266115
+"624"	"624"	"KE"	""	"white"	"97"	"Individual"	"Increased, foot detachment"	1	380	2	1	3	1	1.47459566586842e-06	12	26.2487944402221	0.066569050015113
+"361"	"361"	"AO"	"terminus"	"red"	"97, 138, 177, 201, 203"	"Population"	"Decline, Population"	1	389	3	1	4	22	3.24411046491052e-05	48	29.2992728620649	1.1978708127412
+"626"	"626"	"KE"	""	"white"	"97, 98, 195, 203, 204"	"Cellular"	"Increased, serotonin (5-HT) "	1	372	1	6	7	5	7.37297832934209e-06	45	23.8666568899091	-2.14592233556342
+"619"	"619"	"MIE"	"origin"	"green"	"97, 98, 195, 203, 204"	"Molecular"	"Inhibition, 5-hydroxytryptamine transporter (5-HTT; SERT)"	1	371	0	6	6	0	0	87	24.9828809509844	-1.96957717206373
+"627"	"627"	"KE"	""	"white"	"98"	"Individual"	"Decreased, anxiety"	1	376	1	1	2	8	1.17967653269474e-05	3	20.3841379544827	-2.66639208039011
+"629"	"629"	"KE"	""	"white"	"98"	"Individual"	"Decreased, sheltering"	1	377	1	1	2	9	1.32713609928158e-05	3	17.2569233871946	-2.65580237787841
+"636"	"636"	"AO"	"terminus"	"red"	"99, 242"	"Population"	"Decreased, survival"	1	801	2	0	2	0	0	467	10.0815715803622	2.29981645463819
+"638"	"638"	"MIE"	"origin"	"green"	"99"	"Molecular"	"Antagonism, Histamine Receptor (H2)"	1	368	0	1	1	0	0	18	12.2126998194622	-0.0967515171107799
+"633"	"633"	"KE"	""	"white"	"99"	"Cellular"	"Decrease, histaminergic neuron excitation"	1	369	1	2	3	16	2.35935306538947e-05	18	13.5050226117379	2.67644094768423
+"634"	"634"	"KE"	""	"white"	"99"	"Individual"	"N/A, sedation"	1	370	1	1	2	4	5.89838266347368e-06	3	13.4485616362507	0.726432781118076
+"635"	"635"	"KE"	""	"white"	"99"	"Individual"	"Decreased, locomotion"	1	799	2	1	3	157.5	0.000232248817374276	1326	14.5470795352657	1.95573908506528
+"672"	"672"	"KE"	""	"white"	"100"	"Organ"	"Reduced, Prostaglandin F2alpha synthesis, ovary  "	1	547	1	1	2	2	2.94919133173684e-06	8	17.663911465807	-0.81034721887606
+"671"	"671"	"KE"	""	"white"	"100, 101"	"Individual"	"Reduced, Prostaglandin F2alpha concentration, plasma "	1	548	2	2	4	17	2.50681263197631e-05	16	16.4210773620125	-0.991515444264671
+"673"	"673"	"KE"	""	"white"	"100"	"Individual"	"Reduced, Spawning behavior"	1	550	1	1	2	8	1.17967653269474e-05	8	14.9028611321624	-0.0154847350462173
+"674"	"674"	"KE"	""	"white"	"100, 101"	"Individual"	"Reduced, Ability to attract spawning mates"	1	551	2	1	3	20	2.94919133173684e-05	16	14.3780077726899	2.54906539089616
+"678"	"678"	"KE"	""	"white"	"101"	"Individual"	"Reduced, Pheromone release"	1	549	1	1	2	8	1.17967653269474e-05	8	15.6512082106748	0.544457587286217
+"679"	"679"	"AO"	"terminus"	"red"	"101, 102"	"Population"	"Decline, Population trajectory"	1	657	1	0	1	0	0	116	10.8307730809098	4.35048785496643
+"681"	"681"	"KE"	""	"white"	"101"	"Organ"	"Decreased, Prostaglandin F2alpha synthesis, ovary  "	1	546	1	1	2	2	2.94919133173684e-06	8	17.9041049895549	-1.54738116255244
+"687"	"687"	"KE"	""	"white"	"102, 103"	"Tissue"	"Reduced, Prostaglandin E2 concentration, hypothalamus"	1	537	1	1	2	8	1.17967653269474e-05	8	15.2668956710408	-1.92541611433161
+"689"	"689"	"KE"	""	"white"	"102, 103"	"Tissue"	"Reduced, Gonadotropin releasing hormone, hypothalamus"	1	538	1	1	2	18	2.65427219856315e-05	8	12.9611630394756	-3.37959476295967
+"690"	"690"	"KE"	""	"white"	"102, 103"	"Tissue"	"Reduced, Luteinizing hormone (LH), plasma "	1	539	1	1	2	26	3.83394873125789e-05	8	11.6701468285578	-4.12549990746479
+"691"	"691"	"KE"	""	"white"	"102, 103"	"Tissue"	"Reduced, Maturation inducing steroid, plasma"	1	540	1	1	2	32	4.71870613077894e-05	8	10.6741974334527	-3.22379036396726
+"692"	"692"	"KE"	""	"white"	"102, 103"	"Tissue"	"Reduced, Maturation inducing steroid receptor signalling, oocyte"	1	541	1	2	3	36	5.30854439712631e-05	8	10.9738730700934	-1.46823664881278
+"693"	"693"	"KE"	""	"white"	"102"	"Tissue"	"Increased, cyclic adenosine monophosphate"	1	544	1	1	2	16	2.35935306538947e-05	4	11.6098583227452	0.564047979834184
+"694"	"694"	"KE"	""	"white"	"102"	"Cellular"	"Reduced, Meiotic prophase I/metaphase I transition, oocyte"	1	545	1	1	2	14	2.06443393221579e-05	4	11.9993827744903	2.68474158076274
+"695"	"695"	"KE"	""	"white"	"103"	"Molecular"	"Upregulated, Spindle assembly checkpoint protein Mad2-oocyte"	1	542	1	1	2	16	2.35935306538947e-05	4	10.3873587865246	0.367242948239079
+"696"	"696"	"KE"	""	"white"	"103"	"Cellular"	"Increased, Chromosome misseggregation"	1	543	1	1	2	14	2.06443393221579e-05	4	11.0485983168641	2.79235669137221
+"697"	"697"	"MIE"	"origin"	"green"	"104"	"Cellular"	"impaired, ion channels"	1	365	0	1	1	0	0	3	14.1101677530613	-6.1261389720173
+"698"	"698"	"KE"	""	"white"	"104"	"Cellular"	"Altered, Action Potential"	1	366	1	1	2	4	5.89838266347368e-06	3	15.4331587820713	-6.45261857460002
+"699"	"699"	"KE"	""	"white"	"104"	"Organ"	"Increased, cardiac arrthymia"	1	367	1	1	2	6	8.84757399521051e-06	3	16.9056087081313	-6.28985354265922
+"714"	"714"	"MIE"	"origin"	"green"	"105"	"Molecular"	"Increased, Binding of chemicals to 2u (serum)"	1	363	0	1	1	0	0	3	16.7565499270867	20.9995902346172
+"708"	"708"	"KE"	""	"white"	"105"	"Tissue"	"Increased, Accumulation of alpha2u microglobulin (proximal tubular epithelium)"	1	364	1	1	2	6	8.84757399521051e-06	3	16.0516117807196	19.3128437092616
+"709"	"709"	"KE"	""	"white"	"105, 256, 257, 258"	"Cellular"	"Increase, Cytotoxicity (renal tubular cell)"	1	595	4	2	6	120	0.00017695147990421	36	14.7375848345617	17.0967425891413
+"710"	"710"	"KE"	""	"white"	"105, 116"	"Cellular"	"Increase, Regenerative cell proliferation (tubular epithelial cells)"	1	597	2	2	4	78	0.000115018461937737	26	15.0607549373855	21.0861952576082
+"767"	"767"	"KE"	""	"white"	"105"	"Cellular"	"Increase, Hyperplasia (renal tubular cells)"	1	599	1	1	2	13.5	1.99070414892237e-05	13	15.04419650117	23.2002001334452
+"713"	"713"	"AO"	"terminus"	"red"	"105, 116"	"Tissue"	"Increase, Adenomas/carcinomas (renal tubular)"	1	600	2	0	2	0	0	26	15.2581400691052	24.5208598227735
+"718"	"718"	"MIE"	"origin"	"green"	"106"	"Molecular"	"Binding, Tubulin"	13	357	0	2	2	0	0	2	0.755545485636449	28.0671703562324
+"720"	"720"	"KE"	""	"white"	"106"	"Molecular"	"Depolymerization, Microtubule"	13	358	1	1	2	2	2.94919133173684e-06	1	2.00644074785148	27.9060806044515
+"721"	"721"	"KE"	""	"white"	"106"	"Cellular"	"Disorganization, Spindle"	13	359	1	1	2	4	5.89838266347368e-06	1	1.74582303032897	26.7270818865203
+"723"	"723"	"KE"	""	"white"	"106"	"Cellular"	"Altered, Chromosome number"	13	361	2	1	3	4	5.89838266347368e-06	2	-0.0545897961842201	27.2229949341722
+"728"	"728"	"AO"	"terminus"	"red"	"106"	"Individual"	"Increase, Aneuploid offspring"	13	362	1	0	1	0	0	2	-0.854657987478796	28.2146910256596
+"752"	"752"	"KE"	""	"white"	"106"	"Cellular"	"Altered, Meiotic chromosome dynamics"	13	360	1	1	2	4	5.89838266347368e-06	1	0.702243128572773	26.107340894652
+"715"	"715"	"MIE"	"origin"	"green"	"107"	"Molecular"	"Activation, Constitutive androstane receptor"	1	355	0	1	1	0	0	2	18.141492684183	29.5835719821359
+"1214"	"1214"	"KE"	""	"white"	"107"	"Cellular"	"Altered gene expression specific to CAR activation, Hepatocytes"	1	356	1	1	2	4	5.89838266347368e-06	2	16.9735301857039	27.7245430876853
+"774"	"774"	"KE"	""	"white"	"107, 117, 118"	"Cellular"	"Increase, Preneoplastic foci (hepatocytes)"	1	678	2	1	3	6	8.84757399521051e-06	6	19.077796780468	26.2538639621584
+"724"	"724"	"MIE"	"origin"	"green"	"108"	"Cellular"	"Inhibition, Pyruvate dehydrogenase kinase (PDK) enzyme"	1	352	0	1	1	0	0	360	29.0473169912269	15.070064741435
+"726"	"726"	"KE"	""	"white"	"108"	"Molecular"	"Increased, Induction of pyruvate dehydrogenase (PDH)"	1	353	1	1	2	70.999999999	0.000104696292275183	360	27.5687880149749	14.4257405343183
+"769"	"769"	"KE"	""	"white"	"108"	"Cellular"	"Increase, Oxidative metabolism"	1	354	1	1	2	139.999999998	0.000206443393218629	360	25.0006503532582	14.7792754392503
+"768"	"768"	"KE"	""	"white"	"108, 136"	"Cellular"	"Increase, Cytotoxicity"	1	575	2	2	4	72	0.000106170887942526	21	23.5102933157874	20.1134022912555
+"733"	"733"	"KE"	""	"white"	"109"	"Cellular"	"Increase, Necrosis (terminal bronchiolar cells)"	14	348	1	1	2	3	4.42378699760526e-06	1	36.0405043105132	23.2164265441143
+"734"	"734"	"KE"	""	"white"	"109"	"Cellular"	"Increase, Regenerative cell proliferation (terminal bronchiolar epithelial cells)"	14	349	1	1	2	4	5.89838266347368e-06	1	36.0849447167104	24.5450617570472
+"735"	"735"	"KE"	""	"white"	"109"	"Cellular"	"Increase, Hyperplasia (terminal bronchiolar cells)"	14	350	1	1	2	3	4.42378699760526e-06	1	37.2119152530005	24.4096555812541
+"736"	"736"	"AO"	"terminus"	"red"	"109"	"Tissue"	"Increase, Adenomas/carcinomas (bronchioloalveolar)"	14	351	1	0	1	0	0	1	37.8956575348455	23.5199191669894
+"770"	"770"	"MIE"	"origin"	"green"	"109"	"Cellular"	"Increase, Cytotoxicity (club cells)"	14	347	0	1	1	0	0	1	36.5457744872973	22.2214612833514
+"753"	"753"	"KE"	""	"white"	"110, 119"	"Tissue"	"Increase, Thyroid-stimulating hormone (TSH)"	1	445	1	1	2	12	1.7695147990421e-05	2	18.4005584987353	0.722987038861527
+"739"	"739"	"KE"	""	"white"	"110, 119"	"Cellular"	"Increase, Hypertrophy and proliferation (follicular cell)"	1	446	1	1	2	10	1.47459566586842e-05	2	19.8371121284751	-0.907150568025084
+"740"	"740"	"KE"	""	"white"	"110, 119"	"Cellular"	"Increase, Hyperplasia (follicular cells)"	1	447	1	1	2	6	8.84757399521051e-06	2	21.1604187769485	-1.6409807808013
+"741"	"741"	"AO"	"terminus"	"red"	"110, 119"	"Tissue"	"Increase, Adenomas/carcinomas (follicular cell)"	1	448	1	0	1	0	0	2	22.2788304733419	-1.2474689083855
+"737"	"737"	"MIE"	"origin"	"green"	"110"	"Cellular"	"Decreased, Uptake of inorganic iodide"	1	346	0	1	1	0	0	1	17.2887152193454	2.13942070738218
+"771"	"771"	"KE"	""	"white"	"110, 119"	"Tissue"	"Decrease, Serum thyroid hormone (T4/T3)"	1	444	2	1	3	12	1.7695147990421e-05	2	15.8761299023187	2.62312073025378
+"742"	"742"	"MIE"	"origin"	"green"	"111"	"Molecular"	"Decreased, Androgen receptor activity"	15	341	0	1	1	0	0	1	37.759107954708	7.10662974115786
+"743"	"743"	"KE"	""	"white"	"111"	"Molecular"	"Decreased, Testosterone binding to androgen receptor (hypothalamus)"	15	342	1	1	2	3	4.42378699760526e-06	1	38.1633344895476	8.17330055416534
+"744"	"744"	"KE"	""	"white"	"111, 120"	"Cellular"	"Increase, Hyperplasia (Leydig cells)"	15	344	2	1	3	6	8.84757399521051e-06	2	36.5714568677035	9.05720988992931
+"745"	"745"	"AO"	"terminus"	"red"	"111, 120"	"Cellular"	"Increase, Leydig cell tumors"	15	345	1	0	1	0	0	2	35.3520705754697	8.07066024979552
+"754"	"754"	"KE"	""	"white"	"111"	"Tissue"	"Increased, Luteinizing hormone (LH) "	15	343	1	1	2	4	5.89838266347368e-06	1	37.7463244772391	9.40927927832781
+"746"	"746"	"MIE"	"origin"	"green"	"112"	"Cellular"	"Increase, Dopaminergic activity"	16	335	0	1	1	0	0	1	22.87975643369	35.5024412223669
+"747"	"747"	"KE"	""	"white"	"112"	"Tissue"	"Decreased, Prolactin"	16	336	1	1	2	4	5.89838266347368e-06	1	23.9665133563534	35.6124637358749
+"748"	"748"	"KE"	""	"white"	"112"	"Molecular"	"Increased, Estrogen receptor (ER) activity"	16	337	1	1	2	6	8.84757399521051e-06	1	24.8659141188764	36.3501470025605
+"749"	"749"	"KE"	""	"white"	"112"	"Tissue"	"Decreased, Progesterone from corpus luteum"	16	338	1	1	2	6	8.84757399521051e-06	1	25.8995207358265	36.8707427651042
+"772"	"772"	"KE"	""	"white"	"112"	"Cellular"	"Increase, Hyperplasia (glandular epithelial cells of endometrium)"	16	339	1	1	2	4	5.89838266347368e-06	1	26.9000587253054	37.3023202021823
+"773"	"773"	"AO"	"terminus"	"red"	"112"	"Tissue"	"Increase, Endometrial adenocarcinomas"	16	340	1	0	1	0	0	1	27.223776833186	36.2733142599287
+"760"	"760"	"MIE"	"origin"	"green"	"113"	"Molecular"	"Activation, Glutamate-gated chloride channel"	1	324	0	1	1	0	0	14	24.3256346082244	-9.03500581885083
+"761"	"761"	"KE"	""	"white"	"113, 160, 161"	"Cellular"	"Increased, Chloride conductance"	1	325	3	2	5	36	5.30854439712631e-05	42	23.2239642578743	-9.51442401624975
+"765"	"765"	"AO"	"terminus"	"red"	"113"	"Population"	"Decreased, population 1"	1	764	1	0	1	0	0	132	17.6295468009856	-5.32708072685055
+"763"	"763"	"KE"	""	"white"	"113, 233, 235"	"Cellular"	"hyperpolarisation, neuron"	1	331	2	3	5	45	6.63568049640788e-05	25	24.9121180514942	-8.0294382955744
+"764"	"764"	"KE"	""	"white"	"113"	"Organ"	"N/A, Ataxia, paralysis, or hyperactivity"	1	334	1	1	2	27	3.98140829784473e-05	15	21.9102105345187	-7.33950666653909
+"766"	"766"	"MIE"	"origin"	"green"	"114"	"Molecular"	"Inhibition, 4-hydroxyphenyl-pyruvate dioxygenase (HPPD) enzyme"	1	319	0	1	1	0	0	1	12.3146302967995	37.9656147159584
+"775"	"775"	"KE"	""	"white"	"114"	"Tissue"	"Increased, Plasma tyrosine"	1	320	1	1	2	4	5.89838266347368e-06	1	13.3756115314013	36.963990089801
+"776"	"776"	"KE"	""	"white"	"114"	"Cellular"	"Increase, Cytotoxicity (corneal cells)"	1	321	1	1	2	6	8.84757399521051e-06	1	14.9459186101677	35.4511959979429
+"777"	"777"	"KE"	""	"white"	"114"	"Cellular"	"Increase, Inflammation (corneal cells)"	1	322	1	1	2	6	8.84757399521051e-06	1	16.2177657882795	33.8571092409679
+"778"	"778"	"KE"	""	"white"	"114"	"Cellular"	"Increase, Regenerative cell proliferation (corneal cells)"	1	323	1	1	2	4	5.89838266347368e-06	1	17.2823991249612	31.7266570418491
+"779"	"779"	"AO"	"terminus"	"red"	"114, 115"	"Cellular"	"Increase, Papillomas/carcinomas (squamous cells)"	1	792	2	0	2	0	0	60	17.798889295464	28.7847503929967
+"780"	"780"	"MIE"	"origin"	"green"	"115"	"Cellular"	"Increase, Cytotoxicity (epithelial cells)"	1	318	0	1	1	0	0	6	23.0943535556491	18.4659142721989
+"781"	"781"	"KE"	""	"white"	"115"	"Cellular"	"Increase, Regenerative cell proliferation (forestomach epithelial cells)"	1	790	1	1	2	96	0.000141561183923368	59	20.1908379058993	22.5000646715173
+"782"	"782"	"KE"	""	"white"	"115"	"Cellular"	"Increase, Hyperplasia (forestomach epithelial cells)"	1	791	1	1	2	49	7.22551876275525e-05	59	18.6318922425638	25.7189569441494
+"783"	"783"	"MIE"	"origin"	"green"	"116"	"Cellular"	"Increase, Cytotoxicity (tubular epithelial cells)"	1	317	0	1	1	0	0	2	14.0138783028262	22.8168605360123
+"784"	"784"	"KE"	""	"white"	"116"	"Cellular"	"Increase, Hyperplasia (tubular epithelial cells)"	1	598	1	1	2	13.5	1.99070414892237e-05	13	16.0528049968081	23.1510469741051
+"785"	"785"	"MIE"	"origin"	"green"	"117"	"Molecular"	"Activation, Androgen receptor"	1	316	0	1	1	0	0	2	15.2513976950935	26.804931144022
+"786"	"786"	"MIE"	"origin"	"green"	"118"	"Cellular"	"Increase, Cytotoxicity (hepatocytes)"	1	314	0	1	1	0	0	1	20.4217526370078	30.411434344614
+"787"	"787"	"KE"	""	"white"	"118"	"Cellular"	"Increase, Regenerative cell proliferation (hepatocytes)"	1	315	1	1	2	2	2.94919133173684e-06	1	19.8706691012888	28.6096335074264
+"788"	"788"	"KE"	""	"white"	"119"	"Cellular"	"Decrease, Incorporation of active iodide into iodotyrosines"	1	443	1	1	2	5	7.37297832934209e-06	1	12.4020686890348	4.63135200419182
+"790"	"790"	"MIE"	"origin"	"green"	"120"	"Cellular"	"Inhibition, 5a-reductase activity"	15	311	0	1	1	0	0	1	36.0234122431811	11.2290857573728
+"792"	"792"	"KE"	""	"white"	"120"	"Tissue"	"Decrease, Bioactivation of testosterone"	15	312	1	1	2	3	4.42378699760526e-06	1	35.9608845247987	9.99949552023584
+"791"	"791"	"KE"	""	"white"	"120"	"Tissue"	"Increased, Leutinizing hormone (LH)"	15	313	1	1	2	4	5.89838266347368e-06	1	36.2883157230538	8.2709007534944
+"793"	"793"	"MIE"	"origin"	"green"	"121"	"Organ"	"Increase, Urinary bladder calculi"	17	306	0	1	1	0	0	1	39.1445712436267	18.6650166229446
+"794"	"794"	"KE"	""	"white"	"121"	"Cellular"	"Increase, Cytotoxicity (urothelial cells)"	17	307	1	1	2	3	4.42378699760526e-06	1	40.1728736815303	18.9858311003023
+"795"	"795"	"KE"	""	"white"	"121"	"Cellular"	"Increase, Regenerative cell proliferation (urothelial cells)"	17	308	1	1	2	4	5.89838266347368e-06	1	41.1869781523486	19.177253139553
+"796"	"796"	"KE"	""	"white"	"121"	"Cellular"	"Increase, Hyperplasia (urothelial)"	17	309	1	1	2	3	4.42378699760526e-06	1	42.2830420565293	19.491082731875
+"797"	"797"	"AO"	"terminus"	"red"	"121"	"Tissue"	"Increase, Adenomas/carcinomas (urothelial)"	17	310	1	0	1	0	0	1	42.7213323462721	18.520667931552
+"798"	"798"	"MIE"	"origin"	"green"	"122"	"Cellular"	"Inhibition, Prolyl hydroxylases"	1	303	0	1	1	0	0	6	9.02809610846372	34.4537586916152
+"799"	"799"	"KE"	""	"white"	"122, 123"	"Cellular"	"Increased, HIF-1 heterodimer"	1	304	2	1	3	30	4.42378699760526e-05	12	8.8897710708235	32.3202784815863
+"800"	"800"	"KE"	""	"white"	"122, 123"	"Cellular"	"Decreased, Aromatase (Cyp19a1) mRNA"	1	305	1	1	2	36	5.30854439712631e-05	12	7.42506326786807	29.3267894659
+"801"	"801"	"MIE"	"origin"	"green"	"123"	"Molecular"	"modulation, Unknown"	1	301	0	1	1	0	0	6	10.9155379424721	36.3596948215435
+"802"	"802"	"KE"	""	"white"	"123"	"Cellular"	"Increased, HIF-1 alpha transcription"	1	302	1	1	2	11	1.62205523245526e-05	6	10.094351123105	34.8560928104073
+"804"	"804"	"MIE"	"origin"	"green"	"124"	"Cellular"	"Inhibition, HMG-CoA reductase"	1	296	0	1	1	0	0	1	22.1171001593663	29.2230496174987
+"805"	"805"	"KE"	""	"white"	"124"	"Cellular"	"Decreased, mevalonate"	1	297	1	1	2	4	5.89838266347368e-06	1	21.4499561485099	27.2553192261654
+"807"	"807"	"KE"	""	"white"	"124"	"Cellular"	"Decreased, cholesterol"	1	298	1	1	2	6	8.84757399521051e-06	1	20.1203465153514	25.1306471232286
+"809"	"809"	"KE"	""	"white"	"124"	"Individual"	"malformed, Male reproductive tract"	1	300	1	1	2	4	5.89838266347368e-06	1	17.5492675358696	18.2973274957255
+"330"	"330"	"AO"	"terminus"	"red"	"124, 216, 238"	"Individual"	"Decrease, Fertility"	1	655	2	0	2	0	0	111	15.985095278602	14.0782783724298
+"808"	"808"	"KE"	""	"white"	"124"	"Individual"	"Decreased, Testosterone"	1	299	1	1	2	6	8.84757399521051e-06	1	18.5274694504041	22.1646742359883
+"426"	"426"	"KE"	""	"white"	"128, 134, 188, 192, 193"	"Tissue"	"Decreased, Thyroxine (T4) in serum"	1	451	1	3	4	27.9999999825	4.12886786185103e-05	72	7.88986730521812	12.5969793114361
+"813"	"813"	"KE"	""	"white"	"128"	"Organ"	"Increased, Serum creatinine"	1	450	1	3	4	27.9999999825	4.12886786185103e-05	72	8.36014490765949	12.8860679725333
+"818"	"818"	"KE"	""	"white"	"128"	"Organ"	"Occurrence, Cytoplasmic vacuolization (Renal tubule)"	1	454	2	4	6	14.999999985	2.21189349659074e-05	48	7.68976997948719	14.9470331370718
+"823"	"823"	"KE"	""	"white"	"128"	"Organ"	"Occurrence, Cystic dilatation (renal tubule)"	1	453	2	4	6	14.999999985	2.21189349659074e-05	48	7.18510145556934	14.6557162618814
+"824"	"824"	"KE"	""	"white"	"128"	"Organ"	"Occurrence, Cytoplasmic vacuolization (podocyte)"	1	452	2	4	6	14.999999985	2.21189349659074e-05	48	6.73038299622397	15.0349243370936
+"819"	"819"	"KE"	""	"white"	"128"	"Tissue"	"Decreased, Glomerular filtration"	1	458	3	1	4	3	4.42378699760526e-06	36	7.61053281706775	16.6325351787001
+"814"	"814"	"AO"	"terminus"	"red"	"128, 256, 257, 258"	"Organ"	"Occurrence, Kidney toxicity"	1	596	5	0	5	0	0	156	10.0815420912578	16.6695204755326
+"820"	"820"	"KE"	""	"white"	"128"	"Tissue"	"Decreased, Renal plasma flow"	1	457	3	1	4	3	4.42378699760526e-06	36	7.75269440787163	16.0299909765842
+"821"	"821"	"KE"	""	"white"	"128"	"Organ"	"Decreased, Sodium reabsorption"	1	456	3	1	4	3	4.42378699760526e-06	36	8.52730178565551	15.6856217476893
+"825"	"825"	"KE"	""	"white"	"128"	"Organ"	"Decreased, Renal ability to dilute urine"	1	455	3	1	4	3	4.42378699760526e-06	36	6.83519072319805	16.3946883615261
+"828"	"828"	"MIE"	"origin"	"green"	"130"	"Molecular"	"Inhibition, Phospholipase A"	1	284	0	3	3	0	0	739	29.3108204596733	10.1275015948595
+"829"	"829"	"KE"	""	"white"	"130"	"Cellular"	"Damage, Lipid bilayer"	1	288	1	4	5	2.333333331	3.44072321691892e-06	8	30.4598691575529	9.17304502321964
+"831"	"831"	"KE"	""	"white"	"130, 257"	"Cellular"	"Disturbance, Lysosomal function"	1	286	2	5	7	163.333333329	0.000240850625418785	1446	27.1773380760522	10.0908271885615
+"832"	"832"	"KE"	""	"white"	"130"	"Cellular"	"Injury, Mitochondria"	1	285	1	4	5	2.333333331	3.44072321691892e-06	8	29.5938591100404	8.97625281203429
+"833"	"833"	"KE"	""	"white"	"130"	"Cellular"	"Occurrence, Cytoplasmic vacuolization (hepatocyte)"	1	292	3	2	5	3.75	5.52973374700657e-06	8	29.014143610648	7.62109057817438
+"835"	"835"	"KE"	""	"white"	"130"	"Cellular"	"Occurrence, Ballooning degeneration (hepatocyte)"	1	291	3	2	5	3.75	5.52973374700657e-06	8	30.2073209966591	8.4560334689673
+"836"	"836"	"KE"	""	"white"	"130"	"Cellular"	"Occurrence, Cytoplasmic vacuolization (Bile duct cell)"	1	290	3	2	5	3.75	5.52973374700657e-06	8	29.5882512891552	8.03624987651353
+"837"	"837"	"KE"	""	"white"	"130"	"Cellular"	"Occurrence, Cytoplasmic vacuolization (kupffer cell)"	1	289	3	2	5	3.75	5.52973374700657e-06	8	28.9464728509099	8.34343692264131
+"838"	"838"	"KE"	""	"white"	"130"	"Tissue"	"Induction, Microvesicular fat"	1	294	4	1	5	4.5	6.63568049640788e-06	16	30.7253132329649	7.27941156276786
+"839"	"839"	"KE"	""	"white"	"130"	"Cellular"	"Formation, Mallory body"	1	293	4	1	5	4.5	6.63568049640788e-06	16	30.1184033285533	6.66606158060107
+"840"	"840"	"AO"	"terminus"	"red"	"130"	"Tissue"	"Formation, Liver fibrosis"	1	295	2	0	2	0	0	32	31.7292697037502	5.94098669777217
+"850"	"850"	"KE"	""	"white"	"131"	"Molecular"	"Induction, CYP1A2/CYP1A5"	1	606	1	1	2	4	5.89838266347368e-06	1	4.65318694306419	-3.75702209480781
+"844"	"844"	"KE"	""	"white"	"131"	"Cellular"	"Oxidation, Uroporphyrinogen"	1	607	1	1	2	6	8.84757399521051e-06	1	6.94169014237238	-4.45421498264462
+"845"	"845"	"KE"	""	"white"	"131"	"Molecular"	"Inhibition, UROD"	1	608	1	1	2	6	8.84757399521051e-06	1	8.53216112123078	-4.8182677494817
+"846"	"846"	"KE"	""	"white"	"131"	"Organ"	"Accumulation, Highly carboxylated porphyrins"	1	609	1	1	2	4	5.89838266347368e-06	1	9.68096768113613	-5.21302841091314
+"369"	"369"	"AO"	"terminus"	"red"	"131"	"Individual"	"Uroporphyria"	1	610	1	0	1	0	0	1	10.8113717012351	-5.67561118738809
+"867"	"867"	"MIE"	"origin"	"green"	"136"	"Cellular"	"Decrease, Intracellular pH"	1	283	0	1	1	0	0	3	25.495160848108	21.7833383247109
+"868"	"868"	"KE"	""	"white"	"136"	"Tissue"	"Increase, Tissue Degeneration, Necrosis & Atrophy "	1	576	1	1	2	52	7.66789746251578e-05	14	26.9015061204319	20.2953615257451
+"869"	"869"	"KE"	""	"white"	"136"	"Tissue"	"Increase, Respiratory or Squamous Metaplasia"	1	577	1	1	2	42	6.19330179664736e-05	14	29.3222548309952	21.0736981801646
+"870"	"870"	"KE"	""	"white"	"136"	"Cellular"	"Increase, Cell Proliferation"	1	578	1	2	3	30	4.42378699760526e-05	14	30.3270473803068	22.8476484369179
+"876"	"876"	"KE"	""	"white"	"136"	"Molecular"	"Increase, Mutations in Critical Genes"	1	579	1	1	2	0	0	7	30.2458152834862	24.3847643391342
+"872"	"872"	"AO"	"terminus"	"red"	"136"	"Organ"	"Increase, Site of Contact Nasal Tumors"	1	580	2	0	2	0	0	14	31.1249650219796	24.0803550123946
+"877"	"877"	"MIE"	"origin"	"green"	"138"	"Molecular"	"Inhibition, organic anion transporter 1 (OAT1)"	1	282	0	1	1	0	0	13	7.67821033292472	2.89449549034866
+"1096"	"1096"	"KE"	""	"white"	"138, 177"	"Tissue"	"Increased, blood uric acid concentration"	1	650	2	2	4	151	0.000222663945546131	13	5.93849689633263	3.51445563419018
+"1102"	"1102"	"KE"	""	"white"	"138, 177"	"Tissue"	"Occurrence, tophi (urate) deposition"	1	650	1	1	2	6	8.84757399521051e-06	3	7.500127192985	1.6812840881576
+"1097"	"1097"	"KE"	""	"white"	"138, 177, 186"	"Tissue"	"Occurrence, renal proximal tubular necrosis"	1	650	2	2	4	457	0.000673890219301867	312	6.57969651392264	2.20322835559849
+"1098"	"1098"	"KE"	""	"white"	"138, 177, 186"	"Tissue"	"Increased, blood potassium concentration"	1	674	1	1	2	252	0.000371598107798842	312	10.0429942046408	-1.37981788144752
+"1106"	"1106"	"KE"	""	"white"	"138, 177, 186"	"Organ"	"Occurrence, cardiac arrhythmia"	1	675	1	1	2	192	0.000283122367846736	312	14.1646066849114	-4.12041246614035
+"1088"	"1088"	"KE"	""	"white"	"138, 171, 177, 186, 200"	"Cellular"	"Increased, Oxidative Stress"	1	650	5	3	8	1967	0.00290052967476318	1012	2.90643407640571	5.80883028027576
+"885"	"885"	"AO"	"terminus"	"red"	"139"	"Tissue"	"Increase, Cancer"	4	708	2	0	2	0	0	3	32.5246671303348	27.5348370674954
+"898"	"898"	"MIE"	"origin"	"green"	"144, 257"	"Cellular"	"Disruption, Lysosome"	1	287	1	3	4	227.999999997	0.000336207811813576	2145	21.0188421128065	13.2875057013877
+"901"	"901"	"KE"	""	"white"	"144"	"Tissue"	"Infiltration, Inflammatory cells"	1	780	1	1	2	43	6.3407613632342e-05	56	20.4687280221101	16.5946661514291
+"902"	"902"	"AO"	"terminus"	"red"	"144"	"Organ"	"Inflammation, Liver"	1	781	1	0	1	0	0	56	20.2915889968803	17.8702728774445
+"919"	"919"	"KE"	""	"white"	"148"	"Cellular"	"Occurrence, Transdifferentiation of ciliated epithelial cells"	18	277	2	1	3	5	7.37297832934209e-06	2	28.5449834053489	26.919372994851
+"920"	"920"	"KE"	""	"white"	"148"	"Tissue"	"Occurrence, Metaplasia of goblet cells"	18	278	1	1	2	6	8.84757399521051e-06	2	28.048763932106	28.1702763414749
+"923"	"923"	"KE"	""	"white"	"148"	"Cellular"	"Increase, Proliferation of goblet cells"	18	275	1	1	2	1	1.47459566586842e-06	1	30.2851429371787	29.1652684174165
+"921"	"921"	"KE"	""	"white"	"148"	"Tissue"	"Occurrence, Hyperplasia of goblet cells"	18	276	1	1	2	3	4.42378699760526e-06	1	28.8471690269371	29.9117358215099
+"924"	"924"	"KE"	""	"white"	"148"	"Molecular"	"Activation, SP1"	18	274	1	1	2	0	0	1	30.6250147280499	28.0271124098473
+"962"	"962"	"KE"	""	"white"	"148"	"Cellular"	"Increase, Mucin production"	18	279	4	1	5	14	2.06443393221579e-05	5	29.2679381639766	28.9308969350769
+"914"	"914"	"KE"	""	"white"	"148"	"Cellular"	"Decrease, Apoptosis of ciliated epithelial cells"	18	273	1	1	2	0	0	1	29.647977865188	26.3343899631497
+"941"	"941"	"MIE"	"origin"	"green"	"148"	"Molecular"	"Activation, EGFR"	18	272	0	5	5	0	0	5	29.7203173899256	27.5866409729606
+"1251"	"1251"	"KE"	""	"white"	"148"	"Tissue"	"Chronic, Mucus hypersecretion"	18	280	1	1	2	8	1.17967653269474e-05	5	29.7986540094903	30.4901483295758
+"1250"	"1250"	"AO"	"terminus"	"red"	"148"	"Individual"	"Decrease, Lung function"	18	281	1	0	1	0	0	5	30.1354452315114	31.67186068999
+"935"	"935"	"KE"	""	"white"	"149"	"Cellular"	"KE2 : Decrease, GTPCH-1"	1	568	1	1	2	11	1.62205523245526e-05	6	24.342678236608	16.2377391962362
+"927"	"927"	"KE"	""	"white"	"149"	"Molecular"	"KE1 : S-Glutathionylation, eNOS"	1	567	1	1	2	11	1.62205523245526e-05	6	25.3302999183721	15.7962145662439
+"932"	"932"	"KE"	""	"white"	"149"	"Cellular"	"KE4 : Uncoupling, eNOS"	1	570	2	1	3	12	1.7695147990421e-05	12	27.6715942373316	16.4616105196141
+"934"	"934"	"KE"	""	"white"	"149"	"Cellular"	"KE3 : Decrease, Tetrahydrobiopterin"	1	569	1	1	2	5	7.37297832934209e-06	6	26.6800146805002	16.2234369243121
+"933"	"933"	"KE"	""	"white"	"149"	"Cellular"	"KE6 : Depletion, Nitric Oxide"	1	571	2	1	3	48	7.07805919616841e-05	18	27.6086198857361	17.9888265721175
+"937"	"937"	"KE"	""	"white"	"149"	"Organ"	"KE7 : Impaired, Vasodilation"	1	572	1	1	2	34	5.01362526395262e-05	18	28.6908609683086	19.9172681378173
+"951"	"951"	"KE"	""	"white"	"149"	"Organ"	"KE8 : Increase, Vascular Resistance"	1	573	1	1	2	18	2.65427219856315e-05	18	28.3711496538876	22.4311148356609
+"952"	"952"	"AO"	"terminus"	"red"	"149"	"Individual"	"Hypertension"	1	574	1	0	1	0	0	18	28.2906366054932	24.2792143888576
+"973"	"973"	"KE"	""	"white"	"149"	"Cellular"	"KE5 : Decrease, AKT/eNOS activity"	1	566	1	1	2	44	6.48822092982104e-05	6	25.1957258862999	17.0722030059718
+"945"	"945"	"KE"	""	"white"	"150"	"Molecular"	"reduced dimerization, ARNT/HIF1-alpha"	1	627	1	1	2	8	1.17967653269474e-05	2	5.72500714183103	-5.32419904206666
+"948"	"948"	"KE"	""	"white"	"150"	"Cellular"	"reduced production, VEGF"	1	628	1	1	2	11	1.62205523245526e-05	2	6.9871037170509	-6.13899205640331
+"979"	"979"	"KE"	""	"white"	"154"	"Molecular"	"Interference, nuclear localization of NFAT"	19	268	1	1	2	3	4.42378699760526e-06	1	43.0730403345154	15.8878223739271
+"981"	"981"	"KE"	""	"white"	"154"	"Cellular"	"Reduction, NFAT complex formation"	19	269	1	1	2	4	5.89838266347368e-06	1	41.96401852089	15.6929198237679
+"1202"	"1202"	"KE"	""	"white"	"154"	"Cellular"	"Suppression, IL-2 and IL-4 production"	19	270	1	1	2	3	4.42378699760526e-06	1	41.0174028683758	16.2698379699268
+"984"	"984"	"AO"	"terminus"	"red"	"154"	"Individual"	"Impairment, T-cell dependent antibody response"	19	271	1	0	1	0	0	1	41.0242797268335	17.3728201132033
+"980"	"980"	"MIE"	"origin"	"green"	"154"	"Molecular"	"Inhibition, Calcineurin Activity"	19	267	0	1	1	0	0	1	42.9875725600838	16.9965560854418
+"1002"	"1002"	"MIE"	"origin"	"green"	"155, 156, 190"	"Molecular"	"Inhibition, Deiodinase 2"	1	264	0	4	4	0	0	25	2.64069135356907	10.8160721327635
+"1003"	"1003"	"KE"	""	"white"	"155, 156, 157, 158, 189"	"Tissue"	"Decreased, Triiodothyronine (T3) in serum"	1	265	2	2	4	0	0	24	2.98728803399	9.77685970156467
+"1004"	"1004"	"KE"	""	"white"	"155, 157"	"Organ"	"Reduced, Posterior swim bladder inflation"	1	266	3	3	6	10.5	1.54832544916184e-05	32	4.35422964292835	8.8682530658104
+"1005"	"1005"	"KE"	""	"white"	"155, 156, 157, 158, 159, 242"	"Individual"	"Reduced, Swimming performance"	1	465	3	3	6	51.5	7.59416767922236e-05	60	6.93731437620552	6.58007609733134
+"1006"	"1006"	"KE"	""	"white"	"155, 156, 157, 158, 159"	"Individual"	"Reduced, Young of year survival"	1	467	3	1	4	20	2.94919133173684e-05	39	6.76528081814772	7.79754768609458
+"1007"	"1007"	"KE"	""	"white"	"155, 156, 157, 158, 159"	"Tissue"	"Reduced, Anterior swim bladder inflation"	1	463	5	2	7	53	7.81535702910262e-05	60	4.62123729309437	9.3732280975037
+"1008"	"1008"	"KE"	""	"white"	"155, 156, 157, 158, 159"	"Organ"	"Reduced, Hearing"	1	464	1	1	2	9	1.32713609928158e-05	15	5.30375181957417	7.59461141745255
+"1009"	"1009"	"MIE"	"origin"	"green"	"157, 158, 189"	"Molecular"	"Inhibition, Deiodinase 1"	1	263	0	4	4	0	0	25	2.69684892376852	11.3952764899618
+"1014"	"1014"	"KE"	""	"white"	"160"	"Tissue"	"Induction, Somatic muscle paralysis"	1	329	1	2	3	9	1.32713609928158e-05	18	18.1270111189851	-8.13052150341308
+"762"	"762"	"MIE"	"origin"	"green"	"160"	"Molecular"	"Activation, ionotropic GABA Receptor chloride channel"	1	262	0	1	1	0	0	14	23.1055704375733	-8.40645730049116
+"1015"	"1015"	"KE"	""	"white"	"160, 161"	"Cellular"	"Increased, Neuronal synaptic inhibition"	1	326	1	1	2	16	2.35935306538947e-05	27	20.7781033247055	-10.3856741899788
+"1012"	"1012"	"KE"	""	"white"	"160, 161"	"Cellular"	"Increased, Inhibitory postsynaptic potential"	1	327	1	2	3	18	2.65427219856315e-05	27	18.5726917987503	-10.014351406482
+"1016"	"1016"	"KE"	""	"white"	"160, 161"	"Individual"	"Inhibition, Feeding"	1	330	2	1	3	3	4.42378699760526e-06	18	17.3384646202428	-7.61396341406062
+"1018"	"1018"	"MIE"	"origin"	"green"	"161"	"Molecular"	"Activation, Glutamate-gated chloride channels"	1	261	0	1	1	0	0	14	24.3571662358546	-10.1190014586501
+"1019"	"1019"	"KE"	""	"white"	"161"	"Tissue"	"Induction, pharyngeal muscle paralysis"	1	328	1	1	2	3	4.42378699760526e-06	9	17.2456350749945	-9.37334594732937
+"1021"	"1021"	"KE"	""	"white"	"162"	"Cellular"	"Increased, T4/T3 catabolism"	20	255	1	1	2	5	7.37297832934209e-06	0	3.94073935809379	35.5933460964249
+"1022"	"1022"	"KE"	""	"white"	"162"	"Tissue"	"Decreased, serum T4/T3"	20	256	1	1	2	8	1.17967653269474e-05	0	5.22826649496176	36.5866701290913
+"1023"	"1023"	"KE"	""	"white"	"162"	"Tissue"	"Increased, Thyroid-stimulating hormone (TSH)"	20	257	1	1	2	9	1.32713609928158e-05	0	6.74941591971266	37.2445910620583
+"1024"	"1024"	"KE"	""	"white"	"162"	"Cellular"	"Increased, Hypertrophy and proliferation (follicular cell)"	20	258	1	1	2	8	1.17967653269474e-05	0	8.28986312653407	37.8614676356375
+"1025"	"1025"	"KE"	""	"white"	"162"	"Tissue"	"Increased, Hyperplasia (follicular cells)"	20	259	1	1	2	5	7.37297832934209e-06	0	9.68309642078309	38.3868624480071
+"1020"	"1020"	"KE"	"origin"	"white"	"162"	"Cellular"	"Increased, induction of UDPGT's in liver"	20	254	0	1	1	0	0	0	3.20329937054413	34.0010621557763
+"1026"	"1026"	"AO"	"terminus"	"red"	"162"	"Tissue"	"Increased Apoptosis, Adenomas/carcinomas (follicular cell)"	20	260	1	0	1	0	0	0	10.9265345664409	38.5908818110802
+"1029"	"1029"	"KE"	""	"white"	"163"	"Cellular"	"Increased, adipogenesis"	1	496	1	1	2	0	0	3	-2.94293441709207	7.83528547385781
+"1032"	"1032"	"KE"	""	"white"	"163, 171"	"Cellular"	"Increased, secretion of local growth factors"	1	666	4	3	7	469	0.000691585367292288	109	-0.598224009204866	8.7881580714235
+"1033"	"1033"	"KE"	""	"white"	"163"	"Cellular"	"Increased, proliferation of mesenchymal cells"	1	670	1	3	4	204	0.000300817515837157	0	-1.38539186918851	12.6781365533167
+"1034"	"1034"	"KE"	"terminus"	"white"	"163"	"Cellular"	"Increased, IGF-1 (mouse)"	1	669	1	0	1	0	0	0	-2.2454028154747	8.67363095440367
+"1035"	"1035"	"KE"	"terminus"	"white"	"163"	"Tissue"	"Increased, Firbrosarcoma"	1	673	1	0	1	0	0	0	-1.58989160627374	15.0565369423616
+"1036"	"1036"	"KE"	"terminus"	"white"	"163"	"Tissue"	"Increased, liposarcoma"	1	672	1	0	1	0	0	0	-0.895058929382775	14.4401157317168
+"1037"	"1037"	"KE"	"terminus"	"white"	"163"	"Tissue"	"Increased, hemagiosarcoma"	1	671	1	0	1	0	0	0	-2.51447877527226	14.1087625559204
+"1038"	"1038"	"MIE"	"origin"	"green"	"164"	"Molecular"	"Activation, beta-2 adrenergic receptor"	21	248	0	1	1	0	0	1	39.1645676726792	17.155994694072
+"1039"	"1039"	"KE"	""	"white"	"164"	"Molecular"	"Increased activity, beta-2 adrenergic receptor"	21	249	1	1	2	4	5.89838266347368e-06	1	38.098954653894	16.9037008808906
+"1040"	"1040"	"KE"	""	"white"	"164"	"Tissue"	"relaxation, smooth muscle"	21	250	1	1	2	6	8.84757399521051e-06	1	37.1472922755859	16.3023503290354
+"1042"	"1042"	"KE"	""	"white"	"164"	"Cellular"	"Proliferation/Clonal Expansion, smooth muscle"	21	251	1	1	2	6	8.84757399521051e-06	1	36.1675999910645	15.7231376753706
+"1043"	"1043"	"KE"	""	"white"	"164"	"Cellular"	"Hypertrophy/hyperplasia, smooth muscle"	21	252	1	1	2	4	5.89838266347368e-06	1	35.8358422776513	16.8595951519144
+"1044"	"1044"	"AO"	"terminus"	"red"	"164"	"Tissue"	"Promotion, mesovarian leiomyomas"	21	253	1	0	1	0	0	1	34.7934211568833	16.5410876124278
+"1045"	"1045"	"KE"	"origin"	"white"	"165"	"Tissue"	"Decreased, Ovarian E2"	22	239	0	1	1	0	0	0	39.2771277127432	9.90800225642588
+"1056"	"1056"	"KE"	""	"white"	"165"	"Tissue"	"Decrease, E2 blood concentrations at hypothalamus"	22	240	2	1	3	14	2.06443393221579e-05	0	39.662467187893	8.43804755740212
+"1047"	"1047"	"KE"	""	"white"	"165"	"Cellular"	"Increased, secretion of GnRH from hypothalamus"	22	241	1	2	3	18	2.65427219856315e-05	0	39.3425373462769	6.66296851850223
+"1049"	"1049"	"KE"	""	"white"	"165"	"Cellular"	"Increased, secrection of FSH from anterior pituitary"	22	243	1	2	3	12	1.7695147990421e-05	0	38.5475487799475	5.33684444590821
+"1050"	"1050"	"KE"	""	"white"	"165"	"Cellular"	"Increased, secretion of LH from anterior pituitary"	22	242	1	1	2	4	5.89838266347368e-06	0	39.8474889761466	5.28961761615384
+"1046"	"1046"	"KE"	"origin"	"white"	"165"	"Molecular"	"Suppression, Estrogen receptor (ER) activity"	22	238	0	1	1	0	0	0	40.3703029402186	9.49880355527495
+"1051"	"1051"	"KE"	""	"white"	"165"	"Cellular"	"Hyperplasia, ovarian stromal cells"	22	246	2	1	3	6	8.84757399521051e-06	0	39.5226637036282	4.16819678905865
+"1052"	"1052"	"KE"	""	"white"	"165"	"Tissue"	"Hyperplasia, ovarian epithelium"	22	244	1	1	2	5	7.37297832934209e-06	0	37.2109871658765	5.60691765717718
+"1053"	"1053"	"AO"	"terminus"	"red"	"165"	"Tissue"	"Promotion, ovarian adenomas"	22	245	1	0	1	0	0	0	35.9387744657612	5.80670599416189
+"1054"	"1054"	"AO"	"terminus"	"red"	"165"	"Cellular"	"Promotion, ovarian granular cell tumors"	22	247	1	0	1	0	0	0	40.1273845636662	3.16750481169101
+"1061"	"1061"	"KE"	""	"white"	"166"	"Tissue"	"prolonged, elevation of serun CCK"	23	235	1	1	2	6	8.84757399521051e-06	0	30.2626274055821	33.4335240083206
+"1062"	"1062"	"KE"	""	"white"	"166"	"Cellular"	"Increased, Cellular proliferation / hyperplasia of acinar cells"	23	236	1	1	2	4	5.89838266347368e-06	0	29.3557315188707	34.2737387629136
+"1058"	"1058"	"KE"	""	"white"	"166"	"Organ"	"Decreased, bile flow"	23	233	1	1	2	0	0	0	28.0368190353922	32.8801979928692
+"1059"	"1059"	"KE"	""	"white"	"166"	"Organ"	"Increased, cholestasis"	23	234	2	1	3	6	8.84757399521051e-06	0	29.1162858808771	32.9463570442021
+"1057"	"1057"	"KE"	"origin"	"white"	"166"	"Molecular"	"Increased, PPAR-alpha activation"	23	231	0	3	3	0	0	0	28.3933394083002	34.2780385221602
+"1060"	"1060"	"KE"	"terminus"	"white"	"166"	"Cellular"	"Alteration, lipid metabolism"	23	232	1	0	1	0	0	0	28.7385504271135	35.5873443045556
+"1063"	"1063"	"AO"	"terminus"	"red"	"166"	"Organ"	"Increased, Pancreatic acinar tumors"	23	237	1	0	1	0	0	0	27.5420659199956	34.1282742878998
+"1064"	"1064"	"MIE"	"origin"	"green"	"167"	"Molecular"	"prepubertal increase, Estrogen receptor (ER) activity"	24	224	0	1	1	0	0	1	38.2715976169212	26.3159077103797
+"1065"	"1065"	"KE"	""	"white"	"167"	"Molecular"	"Activation, estrogen receptor alpha"	24	225	1	1	2	5	7.37297832934209e-06	1	39.4743434863674	25.7241228845534
+"1066"	"1066"	"KE"	""	"white"	"167"	"Cellular"	"Promotion, SIX-1 postive basal-type progenitor cells"	24	226	1	1	2	8	1.17967653269474e-05	1	38.6107356109296	25.4116856571671
+"1067"	"1067"	"KE"	""	"white"	"167"	"Cellular"	"Proliferation/Clonal Expansion, aberrant basal cells"	24	227	1	1	2	9	1.32713609928158e-05	1	39.3254755916322	27.0448902229301
+"1068"	"1068"	"KE"	""	"white"	"167"	"Tissue"	"squamous metaplasia, aberrant basal cells"	24	228	1	1	2	8	1.17967653269474e-05	1	39.0595360252408	28.3604249351994
+"1069"	"1069"	"KE"	""	"white"	"167"	"Cellular"	"Increased, Hyperplasia (glandular epithelial cells of endometrium)"	24	229	1	1	2	5	7.37297832934209e-06	1	38.3929334654934	29.569553106793
+"1070"	"1070"	"AO"	"terminus"	"red"	"167"	"Tissue"	"Increased, adenosquamous carcinomas of endometrium"	24	230	1	0	1	0	0	1	37.4855051037796	30.6167313657889
+"1071"	"1071"	"KE"	"origin"	"white"	"168, 169"	"Cellular"	"Decreased, GnRH pulsatility/release in hypothalamus"	25	213	0	1	1	0	0	0	32.5497519112211	16.2308526174066
+"1072"	"1072"	"KE"	""	"white"	"168, 169"	"Cellular"	"Decreased, LH Surge from anterior pituitary"	25	214	1	2	3	8.999999997	1.3271360988392e-05	0	32.5866632596602	17.5363290843408
+"1074"	"1074"	"KE"	""	"white"	"168, 169"	"Individual"	"interruption, Ovulation"	25	217	1	1	2	4.999999998	7.3729783263929e-06	0	31.4244319601608	17.8702675655379
+"1075"	"1075"	"KE"	""	"white"	"168, 169"	"Individual"	"prolonged, estrus"	25	215	1	2	3	8.999999996	1.32713609869174e-05	0	33.2433461462203	19.1771559667498
+"1076"	"1076"	"KE"	""	"white"	"168, 169"	"Organ"	"Increased, circulating estrogen levels"	25	218	2	2	4	16.499999996	2.43308284809305e-05	0	32.2649362395062	19.1029585149046
+"1077"	"1077"	"KE"	""	"white"	"168"	"Tissue"	"Increased, prolactin exposure"	25	216	1	1	2	3.499999998	5.16108482759027e-06	0	34.0651512486822	20.3911116146505
+"1078"	"1078"	"KE"	""	"white"	"168"	"Tissue"	"Hyperplasia, Mammary gland"	25	221	2	2	4	12	1.7695147990421e-05	0	32.7581588892928	20.643395606051
+"1080"	"1080"	"KE"	""	"white"	"168, 170"	"Individual"	"Increased, latency period"	25	222	2	1	3	0	0	0	33.2618333037332	21.8734906342333
+"1079"	"1079"	"AO"	"terminus"	"red"	"168, 170"	"Tissue"	"Increased, Adenomas/carcinomas (mammary)"	25	223	3	0	3	0	0	0	32.1471125051571	21.7432585069176
+"1081"	"1081"	"KE"	""	"white"	"169"	"Cellular"	"Increased, lactotroph hyperplasia and hypertrophy"	25	219	1	1	2	5	7.37297832934209e-06	0	33.8089950617583	18.294813342841
+"1082"	"1082"	"AO"	"terminus"	"red"	"169"	"Tissue"	"Increased, adenomas (pituitary)"	25	220	1	0	1	0	0	0	35.0866368652587	18.4448707069514
+"1084"	"1084"	"KE"	""	"white"	"170"	"Tissue"	"Increased, prolactin secretion"	25	211	1	1	2	3	4.42378699760526e-06	0	33.5798747497193	23.7852050693729
+"1085"	"1085"	"KE"	""	"white"	"170"	"Tissue"	"Increased, hyperplasia (mammary gland)"	25	212	1	2	3	4	5.89838266347368e-06	0	32.7041733982786	22.9074478798011
+"1083"	"1083"	"KE"	"origin"	"white"	"170"	"Cellular"	"Decreased, Dopaminergic activity"	25	210	0	1	1	0	0	0	34.6489049853761	23.632436459918
+"1086"	"1086"	"KE"	"origin"	"white"	"171"	"Cellular"	"persistent, cytotoxicity (pleura or peritoneum)"	1	208	0	2	2	0	0	0	1.86854464441281	6.78376231380206
+"1087"	"1087"	"KE"	""	"white"	"171"	"Cellular"	"Increased, inflammation"	1	209	1	1	2	4	5.89838266347368e-06	0	0.620096405938958	8.46764810252031
+"1089"	"1089"	"KE"	""	"white"	"171"	"Cellular"	"Increased, Cell Proliferation (mesothelium)"	1	667	1	1	2	68	0.000100272505279052	109	-0.346105297080869	11.2514879539469
+"1090"	"1090"	"AO"	"terminus"	"red"	"171"	"Tissue"	"Increased, mesotheliomas"	1	668	1	0	1	0	0	109	-0.172654057096472	13.1708377132184
+"1495"	"1495"	"MIE"	"origin"	"green"	"173"	"Molecular"	"Increased, interaction with the resident cell membrane components"	1	201	0	1	1	0	0	1	26.0616943805568	32.054124823405
+"1496"	"1496"	"KE"	""	"white"	"173"	"Cellular"	"Increased, secretion of proinflammatory and profibrotic mediators"	1	202	1	1	2	6	8.84757399521051e-06	1	26.9278269705093	31.3105419455107
+"1497"	"1497"	"KE"	""	"white"	"173"	"Cellular"	"Increased, recruitment of inflammatory cells"	1	203	1	1	2	10	1.47459566586842e-05	1	26.2823792146252	30.4113791584832
+"1498"	"1498"	"KE"	""	"white"	"173"	"Tissue"	"Increased, loss of alveolar capillary membrane integrity"	1	204	1	1	2	12	1.7695147990421e-05	1	26.3076984830476	29.1022634466594
+"1499"	"1499"	"KE"	""	"white"	"173"	"Tissue"	"Increased, activation of T (T) helper (h) type 2 cells"	1	205	1	1	2	12	1.7695147990421e-05	1	26.0199339778357	27.664977916861
+"1500"	"1500"	"KE"	""	"white"	"173"	"Tissue"	"Increased, fibroblast proliferation and myofibroblast differentiation"	1	206	1	1	2	10	1.47459566586842e-05	1	24.9792596382591	26.2660857424444
+"1501"	"1501"	"KE"	""	"white"	"173"	"Tissue"	"Increased, extracellular matrix deposition"	1	207	1	1	2	6	8.84757399521051e-06	1	23.6200797046239	24.386961512425
+"1458"	"1458"	"AO"	"terminus"	"red"	"173, 241"	"Organ"	"Pulmonary fibrosis"	1	788	2	0	2	0	0	173	21.7301478266285	22.1920140991769
+"1093"	"1093"	"KE"	""	"white"	"175, 188, 192, 193, 194"	"Tissue"	"Decreased, Thyroxine (T4) in tissues"	1	460	1	1	2	16	2.35935306538947e-05	7	3.52317856724908	13.0901168747657
+"1116"	"1116"	"KE"	""	"white"	"175, 188, 189, 190, 192, 193, 194"	"Tissue"	"Decreased, Triiodothyronine (T3) in tissues"	1	461	3	1	4	11	1.62205523245526e-05	9	1.69713129008581	13.788611170116
+"1101"	"1101"	"AO"	"terminus"	"red"	"175, 188, 189, 190, 191, 192, 193, 194"	"Organ"	"Altered, Amphibian metamorphosis"	1	462	2	0	2	0	0	10	0.645707681602283	17.0663402755165
+"1104"	"1104"	"KE"	""	"white"	"177"	"Tissue"	"Decreased, Prostaglandin F2alpha concentration, plasma "	1	199	1	1	2	37	5.45600396371315e-05	10	-0.685066880970945	9.72717645652954
+"1105"	"1105"	"KE"	""	"white"	"177"	"Tissue"	"Occurrence, renal ischemia"	1	200	1	1	2	72	0.000106170887942526	10	0.45400638284653	7.47390809990586
+"1103"	"1103"	"MIE"	"origin"	"green"	"177"	"Molecular"	"Inhibition, Cyclooxygenase 1 activity"	1	198	0	1	1	0	0	10	-1.47209365638901	11.3739720646796
+"1109"	"1109"	"KE"	"origin"	"white"	"179"	"Individual"	"Increased, Deformed Wing Virus levels"	1	197	0	1	1	0	0	0	23.2137310181047	6.89484686832812
+"1110"	"1110"	"KE"	"origin"	"white"	"183"	"Individual"	"Increased, Energetic demands and therefore metabolic stress"	1	196	0	1	1	0	0	0	18.7557674808117	3.47720924723641
+"1114"	"1114"	"MIE"	"origin"	"green"	"186"	"Molecular"	"Unknown, MIE"	1	195	0	1	1	0	0	11	6.44578310875833	0.708506255158171
+"1115"	"1115"	"KE"	""	"white"	"186, 213"	"Cellular"	"Increased, Reactive oxygen species"	1	647	2	2	4	1542	0.0022738265167691	1023	4.99535565918282	2.17670255116848
+"1133"	"1133"	"KE"	""	"white"	"187"	"Tissue"	"Hemostasis, Depletion from blood of fully functional carboxylated clotting factors"	26	189	1	1	2	10	1.47459566586842e-05	1	37.0506309454861	29.0559703803245
+"1122"	"1122"	"KE"	""	"white"	"187"	"Tissue"	"Under carboxylated clotting factors will not assemble on cell surfaces to form clot, Failure of secondary hemostasis  "	26	190	1	1	2	12	1.7695147990421e-05	1	35.9836294172442	29.2404524604905
+"1134"	"1134"	"MIE"	"origin"	"green"	"187"	"Molecular"	"Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone"	26	187	0	1	1	0	0	1	36.9481259072121	26.8069052360545
+"1131"	"1131"	"KE"	""	"white"	"187"	"Molecular"	"Failure in gamma-glutamyl carboxylation of  clotting factors II, VII, IX and X, Under carboxylation of clotting factors (e.g., des-gamma-carboxy prothrombin) "	26	188	1	1	2	6	8.84757399521051e-06	1	37.4026863632573	27.9762450888463
+"1130"	"1130"	"KE"	""	"white"	"187"	"Organ"	"Failure in vascular repair mechanisms, Unresolved blood loss (hemorrhage)"	26	191	1	1	2	12	1.7695147990421e-05	1	34.503415499352	29.2664623755563
+"1132"	"1132"	"KE"	""	"white"	"187"	"Cellular"	"Blood loss and development of anemia, Impaired oxygen delivery and nutrient delivery to tissue, impaired carbon dioxide and waste product removal"	26	192	1	1	2	10	1.47459566586842e-05	1	35.2814700254844	29.9185053399308
+"1135"	"1135"	"KE"	""	"white"	"187"	"Tissue"	"Reduced fitness or even mortality, Acidosis, hypovolemic shock and organ dysfunction"	26	193	1	1	2	6	8.84757399521051e-06	1	35.0749585721735	28.3205299238406
+"1136"	"1136"	"AO"	"terminus"	"red"	"187"	"Population"	"Impaired recruitment , Population trajectory"	26	194	1	0	1	0	0	1	35.4977515024395	27.1070625870865
+"1152"	"1152"	"MIE"	"origin"	"green"	"188"	"Molecular"	"Inhibition, Iodotyrosine deiodinase (IYD)"	1	186	0	1	1	0	0	424	9.13498518286697	4.73864218031125
+"1153"	"1153"	"MIE"	"origin"	"green"	"191"	"Molecular"	"Inhibition, Deiodinase 3"	1	184	0	1	1	0	0	1	0.920268123976589	21.8451038257131
+"1154"	"1154"	"KE"	""	"white"	"191"	"Tissue"	"Increased, Triiodothyronine (T3) in tissues"	1	185	1	1	2	1	1.47459566586842e-06	1	0.787268227474815	19.9422436154326
+"1155"	"1155"	"MIE"	"origin"	"green"	"192"	"Molecular"	"Inhibition, Pendrin"	1	183	0	1	1	0	0	424	10.9208238150094	10.7930496450948
+"1156"	"1156"	"MIE"	"origin"	"green"	"193"	"Molecular"	"Inhibition, Dual oxidase"	1	182	0	1	1	0	0	424	9.67612640207656	10.4271173688199
+"1157"	"1157"	"MIE"	"origin"	"green"	"194"	"Molecular"	"Activation, Hepatic nuclear receptor(s)"	27	178	0	2	2	0	0	0	21.9277609478948	39.3906234431432
+"1158"	"1158"	"KE"	""	"white"	"194"	"Tissue"	"Increased, Hepatic thyroid hormone uptake/transport"	27	180	1	1	2	1	1.47459566586842e-06	0	20.7441039958299	39.4589615961498
+"295"	"295"	"KE"	"terminus"	"white"	"194"	"Molecular"	"Induction, Upregulation of glucuronyltransferase activity"	27	179	1	0	1	0	0	0	23.0415698791319	39.2656522469534
+"401"	"401"	"KE"	"terminus"	"white"	"194"	"Organ"	"Increase, Biliary excretion TH glucuronide"	27	181	1	0	1	0	0	0	19.6547012926418	39.3933425521854
+"1161"	"1161"	"KE"	""	"white"	"195"	"Organ"	"Increased, oocyte maturation"	1	375	2	1	3	1.333333332	1.9661275525251e-06	4	24.7521660125599	-3.84632759458207
+"1163"	"1163"	"AO"	"terminus"	"red"	"195, 204"	"Individual"	"Increased, Reproductive Success"	1	384	2	1	3	9	1.32713609928158e-05	24	28.4728336682832	-4.20459626733076
+"1164"	"1164"	"AO"	"terminus"	"red"	"195, 204"	"Population"	"Increased, Population"	1	385	1	0	1	0	0	12	29.9677211560912	-4.39691592639577
+"1255"	"1255"	"KE"	""	"white"	"195"	"Individual"	"induced spawning"	1	383	3	1	4	7	1.03221696610789e-05	12	26.6983623056436	-3.9521784683549
+"621"	"621"	"KE"	""	"white"	"195, 203, 204"	"Tissue"	"Increase, cilia movement"	1	374	2	2	4	3.999999996	5.89838265757529e-06	16	25.6243412583975	-3.45241001016325
+"1215"	"1215"	"MIE"	"origin"	"green"	"196"	"Molecular"	"TRPA1 activation, TRPA1 Receptor"	28	166	0	2	2	0	0	13	-2.49719775946204	27.6137600536261
+"1218"	"1218"	"KE"	""	"white"	"196"	"Cellular"	"Opening of calcium channel, Calcium influx"	28	168	1	1	2	7.999999999	1.17967653254728e-05	12	-1.68844777913752	26.505771730952
+"1220"	"1220"	"KE"	""	"white"	"196"	"Tissue"	"Excitation, Neuron nerve ending excitation"	28	169	1	5	6	14.999999997	2.21189349836025e-05	12	-1.58946105901814	24.8685326442218
+"1223"	"1223"	"AO"	"terminus"	"red"	"196"	"Tissue"	"Trigeminal and/or vagal nerve excitation"	28	177	4	0	4	0	0	4	-2.89291812580537	23.5843921436618
+"1236"	"1236"	"KE"	""	"white"	"196"	"Cellular"	"Generation of novel epitopes , Antigen presentation"	28	167	1	1	2	1	1.47459566586842e-06	1	-3.78221622524768	27.2047759600508
+"1237"	"1237"	"AO"	"terminus"	"red"	"196"	"Individual"	"Sensitization, Immune system"	28	176	2	0	2	0	0	4	-4.66832972183685	25.817449196951
+"1222"	"1222"	"KE"	""	"white"	"196"	"Cellular"	"SP (Substance P) release, Local increase of SP"	28	173	1	2	3	1.666666665	2.45765944065637e-06	3	-2.56006600865149	25.0761023487274
+"1433"	"1433"	"KE"	""	"white"	"196"	"Cellular"	"Increased CGRP, neuronal release of CGRP"	28	172	1	3	4	4.666666665	6.88144643826163e-06	4	-3.21895733960954	24.46303760797
+"1434"	"1434"	"AO"	"terminus"	"red"	"196"	"Tissue"	"Irritation of nasal mucosa inducing sneeze reflex"	28	171	1	0	1	0	0	1	-0.196067049437971	24.7901837699503
+"1435"	"1435"	"KE"	""	"white"	"196"	"Cellular"	"Increased neurokinin A (NKA) by neuronal cells"	28	170	1	2	3	1.666666665	2.45765944065637e-06	3	-2.1548830690588	23.8135519048313
+"1225"	"1225"	"KE"	""	"white"	"196"	"Tissue"	"Immune system inflammation "	28	174	3	2	5	7	1.03221696610789e-05	6	-3.95278175264119	24.6790528726133
+"1226"	"1226"	"AO"	"terminus"	"red"	"196"	"Individual"	"Chronic Cough, Respiratory irritability"	28	175	2	0	2	0	0	4	-3.55032552525695	25.8057457772035
+"1176"	"1176"	"KE"	""	"white"	"197"	"Cellular"	"Decreased, sodium conductance 2"	1	398	1	1	2	1	1.47459566586842e-06	0	24.8251647427714	-5.72613214674293
+"1179"	"1179"	"KE"	"terminus"	"white"	"197"	"Cellular"	"Decreased, GABA release"	1	399	1	0	1	0	0	0	26.5941421408859	-5.99388883808843
+"1181"	"1181"	"MIE"	"origin"	"green"	"200"	"Molecular"	"Activation, Estrogen receptor"	1	160	0	4	4	0	0	64	-5.32479234430023	12.1440229741413
+"1187"	"1187"	"KE"	""	"white"	"200"	"Molecular"	"Increased, ER binding to DNA (classical pathway) "	1	164	1	2	3	12.833333322	1.8923977695266e-05	11	-4.26113539155901	10.8197114217668
+"1182"	"1182"	"KE"	""	"white"	"200"	"Cellular"	"Increase, Cell Proliferation (Epithelial Cells)"	1	165	2	1	3	10	1.47459566586842e-05	4	-5.31180420289258	9.36111227060826
+"1192"	"1192"	"KE"	""	"white"	"200"	"Tissue"	"Increased, Ductal Hyperplasia "	1	664	2	1	3	65	9.58487182814472e-05	107	-4.90429233299859	7.65326341893208
+"1183"	"1183"	"KE"	""	"white"	"200"	"Cellular"	"Decreased, Apoptosis (Epithelial Cells)"	1	663	1	1	2	116	0.000171053097240737	103	-2.97458622683057	6.45098793552778
+"1188"	"1188"	"KE"	""	"white"	"200"	"Molecular"	"Increased, ER binding to T.F. to DNA (non-classical pathway)"	1	163	2	2	4	18.833333322	2.77715516904765e-05	33	-4.80102946208022	10.5054241250774
+"1193"	"1193"	"AO"	"terminus"	"red"	"200"	"Individual"	"N/A, Breast Cancer"	1	665	1	0	1	0	0	107	-6.27136998262245	7.81380843155918
+"1189"	"1189"	"KE"	""	"white"	"200"	"Cellular"	"Increased, Proliferation (Endothelial cells) "	1	661	1	1	2	63	9.28995269497104e-05	0	2.48805556713915	3.15352571451843
+"1213"	"1213"	"KE"	"terminus"	"white"	"200"	"Cellular"	"Increased, Angiogenesis"	1	662	2	0	2	0	0	0	4.10495780456736	0.120429847319576
+"1190"	"1190"	"KE"	"origin"	"white"	"200"	"Cellular"	"Increased, Migration (Endothelial Cells)"	1	159	0	1	1	0	0	0	5.1496704944839	-2.11465534340334
+"1191"	"1191"	"KE"	""	"white"	"200"	"Cellular"	"Increased, Non-genomic signaling"	1	162	2	2	4	49.333333322	7.27467194994632e-05	42	-4.24101664422446	12.0170763776741
+"1239"	"1239"	"KE"	""	"white"	"200"	"Molecular"	"Altered, Gene Expression"	1	650	4	1	5	698	0.00102926777477616	165	-2.10061916390349	9.89241893761194
+"1240"	"1240"	"KE"	""	"white"	"200"	"Cellular"	"Altered, Protein Production"	1	650	1	4	5	671	0.000989453691797709	165	0.0375463986363683	6.41248123813405
+"1194"	"1194"	"KE"	""	"white"	"200, 216"	"Molecular"	"Increase, DNA damage"	1	650	2	2	4	1097.5	0.00161836874329059	620	1.43854163944113	10.6422570251145
+"1241"	"1241"	"KE"	""	"white"	"200"	"Cellular"	"Increased, Motility"	1	659	1	1	2	63	9.28995269497104e-05	0	1.35454416518643	7.48245371008468
+"1196"	"1196"	"KE"	"terminus"	"white"	"200"	"Cellular"	"Increased, Invasion"	1	660	1	0	1	0	0	0	2.75653672666185	7.7120303991182
+"1242"	"1242"	"KE"	""	"white"	"200"	"Cellular"	"Increased, Second Messenger Production"	1	161	1	1	2	0	0	21	-5.69357958181823	13.4541275081254
+"1205"	"1205"	"MIE"	"origin"	"green"	"201"	"Molecular"	"Activation, Juvenile hormone receptor"	1	155	0	1	1	0	0	3	32.6157042767981	10.6769307843053
+"1206"	"1206"	"KE"	""	"white"	"201"	"Molecular"	"Induction, Doublesex1 gene"	1	156	1	1	2	4	5.89838266347368e-06	3	32.7854558095792	8.90886595765703
+"1209"	"1209"	"KE"	""	"white"	"201"	"Organ"	"Induction, Male reproductive tract"	1	157	1	1	2	6	8.84757399521051e-06	3	32.5520647601773	6.52198587192171
+"1208"	"1208"	"AO"	"terminus"	"red"	"201"	"Population"	"Increased, Male offspring"	1	158	1	1	2	6	8.84757399521051e-06	3	31.0535885895833	3.97549813230269
+"1210"	"1210"	"AO"	"terminus"	"red"	"201"	"Population"	"Alteration, Food-web structures"	1	390	1	0	1	0	0	24	29.6121894745677	3.0585357647483
+"1253"	"1253"	"KE"	""	"white"	"202"	"Cellular"	"In utero MLL chromosomal translocation"	29	153	1	1	2	2	2.94919133173684e-06	1	31.2186347485455	35.0843584187835
+"1254"	"1254"	"AO"	"terminus"	"red"	"202"	"Individual"	"Infant leukaemia"	29	154	1	0	1	0	0	1	30.6790658894479	36.0043155924674
+"1252"	"1252"	"MIE"	"origin"	"green"	"202"	"Molecular"	"In-utero DNA topoisomerase II “poisons-"	29	151	0	1	1	0	0	1	33.0540414435844	34.6035510970706
+"1461"	"1461"	"KE"	""	"white"	"202"	"Molecular"	"DNA double-strand break "	29	152	1	1	2	2	2.94919133173684e-06	1	32.2458025313882	35.3410185101059
+"1256"	"1256"	"KE"	""	"white"	"203, 204"	"Organ"	"increased mantel display"	1	373	2	1	3	2.666666664	3.9322551050502e-06	12	25.3975891176529	-2.66846571768692
+"1257"	"1257"	"KE"	""	"white"	"203, 204"	"Individual"	"Induced parturition"	1	381	3	2	5	23	3.39157003149736e-05	36	27.1516573701592	-3.16900581862373
+"1141"	"1141"	"AO"	"terminus"	"red"	"203, 218, 219"	"Individual"	"Decreased, Reproductive Success"	1	382	3	2	5	28	4.12886786443157e-05	44	27.4077038168299	-2.28646103500055
+"1260"	"1260"	"MIE"	"origin"	"green"	"205"	"Molecular"	"Direct mitochondrial inhibition"	1	148	0	1	1	0	0	4	-4.52236588624015	21.8006205716927
+"1261"	"1261"	"KE"	""	"white"	"205"	"Molecular"	"Mitochondrial impairment"	1	149	3	2	5	12	1.7695147990421e-05	12	-4.56821492772815	19.6699895458806
+"1262"	"1262"	"AO"	"terminus"	"red"	"205, 207, 212"	"Tissue"	"Apoptosis"	1	623	6	2	8	61	8.99503356179735e-05	99	-3.68018942499866	16.1627493601557
+"1258"	"1258"	"MIE"	"origin"	"green"	"205"	"Cellular"	"Decompartmentalization"	1	147	0	1	1	0	0	4	-5.72403473850968	20.5969107399465
+"1259"	"1259"	"MIE"	"origin"	"green"	"205"	"Cellular"	"narcosis"	1	146	0	1	1	0	0	4	-4.11201463396389	20.9340933647468
+"1263"	"1263"	"AO"	"terminus"	"red"	"205"	"Tissue"	"Necrosis"	1	150	1	0	1	0	0	3	-5.56964257185727	21.5819536156289
+"1270"	"1270"	"MIE"	"origin"	"green"	"206"	"Molecular"	"Inactivation of PPAR<U+03B3>"	1	144	0	1	1	0	0	9	24.8445444748367	22.835508829072
+"1271"	"1271"	"KE"	""	"white"	"206"	"Cellular"	"Activation of TGF-ß signaling"	1	145	1	2	3	12	1.7695147990421e-05	9	23.317852964858	21.2262737981408
+"1457"	"1457"	"KE"	""	"white"	"206, 241"	"Cellular"	"Induction, Epithelial Mesenchymal Transition"	1	785	3	2	5	77	0.000113543866271868	183	22.0602490350748	20.8359549551787
+"1507"	"1507"	"MIE"	"origin"	"green"	"206"	"Molecular"	"Activation of PPAR<U+03B3>"	1	143	0	1	1	0	0	6	24.2393909025083	18.6100854974428
+"1273"	"1273"	"KE"	""	"white"	"206"	"Cellular"	"Expression of Collagen"	1	783	1	1	2	48	7.07805919616841e-05	59	24.7944598101938	19.7256553021267
+"1275"	"1275"	"KE"	""	"white"	"206"	"Tissue"	"Collagen Deposition"	1	784	1	1	2	1	1.47459566586842e-06	59	25.824084251572	20.8629294450763
+"1276"	"1276"	"AO"	"terminus"	"red"	"206"	"Organ"	"Lung fibrosis"	1	786	2	0	2	0	0	120	24.1811725697209	21.8478760230527
+"1174"	"1174"	"MIE"	"origin"	"green"	"207"	"Molecular"	"Activation, NADPH Oxidase"	1	138	0	1	1	0	0	9	-7.04824714461977	16.7878276327643
+"1278"	"1278"	"KE"	""	"white"	"207"	"Molecular"	"ROS formation"	1	139	1	1	2	6.999999997	1.03221696566551e-05	9	-6.34726681305698	15.3916198646827
+"1279"	"1279"	"KE"	""	"white"	"207"	"Cellular"	"Increase, Oxidative Stress / Activation, PMK-1 P38 MAPK"	1	140	1	3	4	11.999999994	1.76951479815735e-05	9	-4.61218981360354	13.88928427465
+"1281"	"1281"	"KE"	""	"white"	"207"	"Cellular"	"Increased, DNA Damage-Repair"	1	142	1	1	2	2.999999997	4.42378699318147e-06	3	-4.21752204961115	15.1219487686673
+"1280"	"1280"	"KE"	""	"white"	"207"	"Cellular"	"Activation, HIF-1"	1	141	1	1	2	2.999999997	4.42378699318147e-06	3	-5.10943708057161	15.6125504502478
+"1277"	"1277"	"AO"	"terminus"	"red"	"207, 208, 210"	"Individual"	"Reproductive failure"	1	625	3	0	3	0	0	39	-0.793825264488996	18.144066717297
+"1282"	"1282"	"KE"	"origin"	"white"	"208"	"Cellular"	"Activation, JAK/STAT pathway"	1	136	0	1	1	0	0	0	-0.423307743184763	21.2773632410247
+"1283"	"1283"	"KE"	""	"white"	"208"	"Cellular"	"Activation, TGF-beta pathway"	1	137	1	1	2	1	1.47459566586842e-06	0	-0.714603163825223	19.9227428128856
+"1284"	"1284"	"KE"	"origin"	"white"	"209"	"Cellular"	"Up Regulation, SREBF2"	30	132	0	1	1	0	0	0	25.8579831633634	34.8402094924887
+"1285"	"1285"	"KE"	""	"white"	"209"	"Cellular"	"Up Regulation, Unsaturated fatty acid"	30	133	1	1	2	2	2.94919133173684e-06	0	25.4529645625406	33.8417913160322
+"1289"	"1289"	"KE"	""	"white"	"209"	"Cellular"	"Perturbation of cholesterol"	30	134	2	1	3	4	5.89838266347368e-06	0	24.3263694312118	33.3866616953444
+"1286"	"1286"	"KE"	"origin"	"white"	"209"	"Cellular"	"Down Regulation, GSS and GSTs gene"	30	128	0	2	2	0	0	0	22.0887039926657	31.9155708712029
+"1287"	"1287"	"KE"	""	"white"	"209"	"Cellular"	"Glutathione synthesis"	30	130	1	1	2	2	2.94919133173684e-06	0	22.0381293318158	33.1396330909256
+"1288"	"1288"	"KE"	""	"white"	"209"	"Cellular"	"Activation, 3-hydroxy-3-methylglutaryl-CoA reductase gene"	30	131	1	1	2	3	4.42378699760526e-06	0	23.0393209849871	33.7475635745748
+"1290"	"1290"	"KE"	""	"white"	"209"	"Cellular"	"Glutathione homeostasis"	30	129	1	1	2	1	1.47459566586842e-06	0	23.2689584001357	31.5472784385982
+"1291"	"1291"	"AO"	"terminus"	"red"	"209"	"Cellular"	"Hepatotoxicity"	30	135	2	0	2	0	0	0	24.3233707835158	32.1241864439993
+"1292"	"1292"	"KE"	""	"white"	"210"	"Cellular"	"Activation, JNK"	1	562	1	1	2	44	6.48822092982104e-05	6	16.821235059703	17.4168631793516
+"1293"	"1293"	"KE"	""	"white"	"210"	"Cellular"	"Activation, FOXO"	1	563	1	1	2	36	5.30854439712631e-05	6	11.5539576882615	18.9538229079895
+"1294"	"1294"	"KE"	""	"white"	"210"	"Cellular"	"Inhibition, Wnt pathway"	1	564	1	1	2	26	3.83394873125789e-05	6	6.59089418400887	19.8170790301139
+"1295"	"1295"	"KE"	""	"white"	"210"	"Tissue"	"Defect of Embryogenesis"	1	565	1	1	2	14	2.06443393221579e-05	6	2.65003844367519	19.3677803011485
+"1502"	"1502"	"MIE"	"origin"	"green"	"212"	"Molecular"	"Histone deacetylase inhibition"	1	124	0	5	5	0	0	13	-4.87059012259895	18.0739261836091
+"1503"	"1503"	"KE"	""	"white"	"212"	"Cellular"	"Histone acetylation, increase"	1	125	1	1	2	0	0	3	-6.1840879606413	19.3811707914855
+"1504"	"1504"	"KE"	""	"white"	"212"	"Cellular"	"p21 expression, increase"	1	126	2	1	3	4	5.89838266347368e-06	6	-6.12379217535986	18.3896310835126
+"1505"	"1505"	"KE"	""	"white"	"212"	"Cellular"	"cell cycle disorder"	1	127	2	1	3	6	8.84757399521051e-06	9	-5.26711299457527	17.2545045933638
+"1506"	"1506"	"AO"	"terminus"	"red"	"212"	"Organ"	"spermatocyte depletion, testis atrophy/weight loss (testicular toxicity)"	1	624	2	0	2	0	0	34	-3.70211823078804	17.6703618974086
+"1490"	"1490"	"MIE"	"origin"	"green"	"213"	"Molecular"	"Inhibition, Fatty Acid Beta Oxidation"	1	122	0	1	1	0	0	12	6.34067236546008	-2.89663995409865
+"1305"	"1305"	"KE"	""	"white"	"213"	"Cellular"	"Increase, cytosolic fatty acid"	1	123	1	1	2	40	5.89838266347368e-05	12	4.89481551910697	-1.11583650157209
+"1491"	"1491"	"KE"	""	"white"	"213"	"Tissue"	"Increased, Oncotic Necrosis"	1	648	1	1	2	42	6.19330179664736e-05	93	6.74300795581097	-0.519538382580064
+"1489"	"1489"	"AO"	"terminus"	"red"	"213"	"Organ"	"N/A, Steatohepatisis"	1	649	1	0	1	0	0	93	8.011897451279	-2.41000161294179
+"1317"	"1317"	"MIE"	"origin"	"green"	"214, 221, 222, 226"	"Molecular"	"Decreased, serotonin transporter activity"	1	93	0	6	6	0	0	15	3.59495714982372	30.5840828549964
+"1321"	"1321"	"KE"	""	"white"	"214, 215, 230"	"Molecular"	"Increased, intracellular sodium (Na+)"	1	115	2	1	3	22	3.24411046491052e-05	10	1.56688855326969	31.4142649025276
+"1322"	"1322"	"KE"	""	"white"	"214, 215"	"Molecular"	"Increased, intracellular chloride (Cl-)"	1	113	2	1	3	5	7.37297832934209e-06	0	2.31765756075483	30.9976057973854
+"1318"	"1318"	"KE"	"terminus"	"white"	"214"	"Molecular"	"Decreased, extracellular sodium (Na+) "	1	112	1	0	1	0	0	0	1.88271995019703	30.0943458686668
+"1319"	"1319"	"KE"	"terminus"	"white"	"214"	"Molecular"	"Decreased, extracellular chloride (Cl-)"	1	111	1	0	1	0	0	0	4.33080617166069	31.2737413914927
+"1320"	"1320"	"KE"	""	"white"	"214, 221, 222, 223, 224, 225, 226"	"Molecular"	"Increased, extracellular serotonin"	1	101	2	2	4	45	6.63568049640788e-05	6	6.45909241153838	31.0493442669632
+"1323"	"1323"	"KE"	""	"white"	"214, 221, 222, 226"	"Molecular"	"Decreased, intracellular serotonin"	1	94	1	1	2	10	1.47459566586842e-05	7	4.88605156159381	29.801689103842
+"1324"	"1324"	"KE"	""	"white"	"214, 221, 222, 226"	"Molecular"	"Decreased, packaged serotonin"	1	95	1	1	2	28	4.12886786443157e-05	7	6.73608873816198	29.4093151249225
+"1325"	"1325"	"KE"	""	"white"	"214, 221, 222, 226"	"Molecular"	"Decreased, synaptic release"	1	96	1	1	2	44	6.48822092982104e-05	7	9.6169891020352	29.3197716770274
+"1347"	"1347"	"KE"	""	"white"	"214, 221, 222, 223, 224, 225, 226"	"Molecular"	"Decreased, extracellular serotonin"	1	97	2	3	5	75	0.000110594674940131	14	13.1973857033973	29.5959764215843
+"1326"	"1326"	"KE"	""	"white"	"214"	"Molecular"	"Increased, 5-HT3 (5-hydroxytryptamine)"	1	100	1	1	2	10	1.47459566586842e-05	4	10.6899770070794	31.0554821393281
+"1328"	"1328"	"KE"	""	"white"	"214, 221, 222, 224, 225"	"Molecular"	"Inactivated, 5-HTR (serotonin receptors)"	1	98	1	2	3	30	4.42378699760526e-05	8	18.7880181892777	27.9370201044539
+"1336"	"1336"	"KE"	""	"white"	"214, 226"	"Molecular"	"Activation, 5-HT2A (Serotonin 2A)"	1	103	2	1	3	70	0.000103221696610789	4	9.84031185277697	30.8667024160846
+"1337"	"1337"	"KE"	""	"white"	"214, 226"	"Molecular"	"Activate, PLC (Phospholipase C)"	1	104	1	1	2	66	9.73233139473156e-05	4	10.7524326738811	33.1404788699979
+"1338"	"1338"	"KE"	""	"white"	"214, 226"	"Molecular"	"Increase, inositol triphosphate"	1	105	1	1	2	60	8.84757399521051e-05	4	11.8985624566791	35.0326542005601
+"1339"	"1339"	"KE"	""	"white"	"214, 226"	"Cellular"	"Increase, intracellular calcium"	1	106	1	1	2	52	7.66789746251578e-05	4	13.0617521590854	35.9248514515185
+"1340"	"1340"	"KE"	""	"white"	"214, 226"	"Molecular"	"Activate, calmodulin"	1	107	1	1	2	42	6.19330179664736e-05	4	14.3302459156226	36.7037443865565
+"1341"	"1341"	"KE"	""	"white"	"214, 226"	"Molecular"	"Increase, myosin light chain phosphorylation"	1	108	1	1	2	30	4.42378699760526e-05	4	14.3600761991826	37.9799920108773
+"1342"	"1342"	"KE"	""	"white"	"214, 226"	"Molecular"	"Increase, vascular smooth muscle contraction"	1	109	1	1	2	16	2.35935306538947e-05	4	13.5599807468534	38.9418740238704
+"1343"	"1343"	"AO"	"terminus"	"red"	"214, 226"	"Individual"	"Increase, hypertension"	1	110	1	0	1	0	0	4	14.3116015441124	39.6552383814308
+"1344"	"1344"	"AO"	"terminus"	"red"	"214, 223, 230, 231"	"Individual"	"Increased, seizure"	1	120	3	1	4	18	2.65427219856315e-05	14	8.16268535722	32.1650100480799
+"1329"	"1329"	"KE"	""	"white"	"214, 221, 222, 224, 225"	"Molecular"	"Reduce expression, BDNF (Brain-derived neurotrophic factor)"	1	99	1	1	2	10.5	1.54832544916184e-05	4	21.1810541345694	28.4649071373243
+"1330"	"1330"	"KE"	""	"white"	"214, 221, 222, 224, 225"	"Molecular"	"Decreased, neuroplasticity"	1	712	2	2	4	24	3.53902959808421e-05	12	23.292693106898	28.0049446547471
+"1345"	"1345"	"AO"	"terminus"	"red"	"214, 222, 225"	"Molecular"	"Increased, agitation"	1	714	1	0	1	0	0	6	23.7401838470972	29.5765942342261
+"1346"	"1346"	"AO"	"terminus"	"red"	"214, 221, 224"	"Individual"	"Increased, depression"	1	713	1	0	1	0	0	6	24.5864247443377	28.6272233601414
+"1334"	"1334"	"KE"	"origin"	"white"	"214"	"Molecular"	"Increase, cortisone"	1	92	0	1	1	0	0	0	29.060124227059	22.3677627534491
+"1335"	"1335"	"KE"	""	"white"	"214, 221, 222"	"Molecular"	"Reduced, BDNF (Brain-derived neurotrophic factor)"	1	711	3	1	4	19.5	2.87546154844342e-05	8	23.5531159651362	25.8481160878988
+"1349"	"1349"	"MIE"	"origin"	"green"	"215, 230"	"Molecular"	"Activated, presynaptic neuron 1"	1	89	0	1	1	0	0	5	-2.22087537695838	29.322838748834
+"1350"	"1350"	"KE"	""	"white"	"215, 230"	"Molecular"	"Increased, glutamate"	1	90	1	1	2	8	1.17967653269474e-05	5	-1.33282287097828	30.065032260694
+"1351"	"1351"	"KE"	""	"white"	"215, 230"	"Molecular"	"Activated, NMDA receptor"	1	91	1	1	2	14	2.06443393221579e-05	5	-0.161236683729037	30.710744129008
+"1352"	"1352"	"KE"	""	"white"	"215, 230"	"Molecular"	"Activated, voltage-gated sodium channel"	1	116	1	1	2	23	3.39157003149736e-05	10	3.14494810814531	32.3459145995888
+"1354"	"1354"	"KE"	"origin"	"white"	"215, 230"	"Molecular"	"Treat, carbamazepine"	31	87	0	1	1	0	0	0	29.3491166826654	37.0957438277998
+"1353"	"1353"	"KE"	"terminus"	"white"	"215, 230"	"Molecular"	"Inhibit, voltage-gated sodium channel"	31	88	1	0	1	0	0	0	28.4277094538734	37.5460700431733
+"1355"	"1355"	"KE"	""	"white"	"215, 230, 231"	"Cellular"	"Activated, membrane depolarization"	1	117	2	1	3	42	6.19330179664736e-05	15	4.79764296509291	33.1269287502757
+"1362"	"1362"	"AO"	"terminus"	"red"	"215, 230, 231"	"Molecular"	"Increased, hippocampal hyperdepolarization"	1	118	1	2	3	34	5.01362526395262e-05	15	6.43373577037886	33.5077910000624
+"1348"	"1348"	"AO"	"terminus"	"red"	"215"	"Individual"	"Increase, seizure"	1	119	1	1	2	6	8.84757399521051e-06	6	7.233765236974	34.8795181213953
+"1363"	"1363"	"AO"	"terminus"	"red"	"215, 230, 231"	"Individual"	"Increased, epilepsy"	1	121	2	0	2	0	0	10	7.8164976405563	33.8144634676893
+"1360"	"1360"	"KE"	"origin"	"white"	"215"	"Molecular"	"Activate, presynaptic neuron 2"	1	84	0	1	1	0	0	0	-0.101889814420234	32.1581847304393
+"1361"	"1361"	"KE"	""	"white"	"215"	"Molecular"	"Increase, GABA"	1	85	1	1	2	3	4.42378699760526e-06	0	0.825053074800373	32.9168027821644
+"1359"	"1359"	"KE"	""	"white"	"215"	"Molecular"	"Activate, GABA-A receptor"	1	86	2	1	3	6	8.84757399521051e-06	0	2.20489638431008	33.0400848532274
+"1357"	"1357"	"KE"	"origin"	"white"	"215, 231"	"Molecular"	"Increased, RDX dose"	1	81	0	2	2	0	0	0	3.80087478862513	34.5357983286205
+"1356"	"1356"	"KE"	"terminus"	"white"	"215"	"Molecular"	"Inactive, membrane depolarization"	1	114	1	0	1	0	0	0	0.944833481541887	29.7428769381129
+"1365"	"1365"	"KE"	""	"white"	"216"	"Cellular"	"Increase, Apoptosis"	1	651	1	1	2	479.5	0.000707068621783907	515	3.77985927980244	11.5665567316963
+"1444"	"1444"	"KE"	""	"white"	"216"	"Tissue"	"Increase, Follicular atresia"	1	652	1	1	2	423.5	0.000624491264495275	515	6.91824256188655	12.345523549854
+"1366"	"1366"	"KE"	""	"white"	"216, 238"	"Cellular"	"Decrease, Oogenesis"	1	653	2	1	3	474	0.000698958345621631	545	10.6672342629184	13.4825522524576
+"1376"	"1376"	"KE"	""	"white"	"217"	"Tissue"	"Increase, angiogenesis"	32	79	1	1	2	1	1.47459566586842e-06	0	15.1449384225494	-8.51420449541936
+"1367"	"1367"	"AO"	"terminus"	"red"	"217"	"Organ"	"Inhibit, gastric ulcer formation"	32	80	3	0	3	0	0	0	13.8801032629531	-7.79317268747084
+"1375"	"1375"	"KE"	""	"white"	"217"	"Tissue"	"Increase, platelet aggregation"	32	78	1	1	2	1	1.47459566586842e-06	0	13.8249636434013	-8.79195698389813
+"1380"	"1380"	"KE"	""	"white"	"217"	"Tissue"	"Activate, mucosal defense"	32	77	4	1	5	4	5.89838266347368e-06	0	12.1577914871941	-8.55467494872925
+"1379"	"1379"	"KE"	""	"white"	"217"	"Cellular"	"Activate, leukocyte "	33	75	1	1	2	1	1.47459566586842e-06	0	33.6764274054951	-3.18706710836285
+"1385"	"1385"	"AO"	"terminus"	"red"	"217, 227, 228, 229"	"Organ"	"Activated, gastric ulcer formation"	33	76	5	0	5	0	0	7	34.4419694878194	-1.57378307941418
+"1378"	"1378"	"KE"	"origin"	"white"	"217"	"Tissue"	"Increase, leukocyte adherence"	33	74	0	1	1	0	0	0	33.9600912518937	-4.42693385235948
+"1370"	"1370"	"KE"	"origin"	"white"	"217"	"Molecular"	"Activation, PTGS-2 (Prostaglandin-endoperoxide synthase 2)"	32	72	0	2	2	0	0	0	15.2269657335596	-9.76540035526544
+"1377"	"1377"	"KE"	"terminus"	"white"	"217"	"Tissue"	"Decrease, leukocyte adherence"	32	73	1	0	1	0	0	0	15.9793837632136	-10.4889064081155
+"1369"	"1369"	"KE"	"origin"	"white"	"217"	"Molecular"	"Activation, PTGS-1 (Prostaglandin-endoperoxide synthase 1)"	32	68	0	4	4	0	0	0	12.6926290073064	-8.01813172205546
+"1374"	"1374"	"KE"	""	"white"	"217"	"Tissue"	"Increase, mucosal blood flow"	32	71	1	1	2	0.333333333	4.91531888131274e-07	0	11.9910486454426	-7.11345014244034
+"1373"	"1373"	"KE"	""	"white"	"217"	"Molecular"	"Increase, mucous"	32	70	1	1	2	0.333333333	4.91531888131274e-07	0	12.8049988024235	-9.52090319462448
+"1372"	"1372"	"KE"	""	"white"	"217"	"Molecular"	"Increase, bicarbonate "	32	69	1	1	2	0.333333333	4.91531888131274e-07	0	11.1573572765392	-8.1253815987772
+"1384"	"1384"	"KE"	""	"white"	"217, 229"	"Molecular"	"Increase, ammonium (NH4+)"	33	65	1	1	2	3	4.42378699760526e-06	1	38.4600656685568	0.66180005885561
+"1382"	"1382"	"KE"	""	"white"	"217, 229"	"Molecular"	"Decrease, surfactant"	33	66	2	1	3	6	8.84757399521051e-06	1	37.1590611213862	0.467718346548781
+"1383"	"1383"	"KE"	"origin"	"white"	"217, 229"	"Molecular"	"Activate, phospholipase"	33	64	0	1	1	0	0	0	36.9969538674418	1.4936194046343
+"1381"	"1381"	"KE"	"origin"	"white"	"217"	"Molecular"	"Increase, surfactant"	32	63	0	1	1	0	0	0	11.1747344984673	-9.52825234747932
+"1386"	"1386"	"MIE"	"origin"	"green"	"218, 219"	"Molecular"	"CYP7B activity, inhibition"	1	58	0	2	2	0	0	20	31.5806949260301	-1.0525759127669
+"1387"	"1387"	"KE"	""	"white"	"218, 219"	"Cellular"	"7a-hydroxypregnenolone synthesis in the brain, decreased"	1	59	1	3	4	2	2.94919133173684e-06	16	31.3241021461782	-2.06812883363969
+"1388"	"1388"	"KE"	""	"white"	"218, 219"	"Tissue"	"Dopamine release in the brain, decreased"	1	60	1	2	3	0	0	8	31.0847369277367	-2.94335473907787
+"1389"	"1389"	"KE"	""	"white"	"218"	"Individual"	"Locomotor activity, decreased"	1	62	3	1	4	8	1.17967653269474e-05	12	30.039676820157	-1.76293168010576
+"1390"	"1390"	"KE"	""	"white"	"219"	"Individual"	"Sexual behavior, decreased"	1	61	2	1	3	4	5.89838266347368e-06	8	29.7559520676783	-2.66331867169625
+"1391"	"1391"	"MIE"	"origin"	"green"	"220"	"Molecular"	"Activation of Cyp2E1 in the liver"	1	57	0	2	2	0	0	215	13.3067222827437	17.9325407785863
+"1393"	"1393"	"KE"	""	"white"	"220"	"Cellular"	"Hepatocytotoxicity"	1	694	2	2	4	3.5	5.16108483053947e-06	6	13.9350499766018	18.754205451116
+"1394"	"1394"	"KE"	""	"white"	"220"	"Cellular"	"Hepatocellular Regenerative Proliferation "	1	695	1	1	2	0	0	3	13.8668662909745	20.3881739293876
+"1395"	"1395"	"AO"	"terminus"	"red"	"220"	"Organ"	"Liver Cancer"	1	696	3	0	3	0	0	8	14.7523062569792	18.7762254184345
+"1396"	"1396"	"MIE"	"origin"	"green"	"221, 222"	"Molecular"	"Increased, glucocorticoid receptor activity"	1	56	0	1	1	0	0	2	25.8248449803056	25.8027126770775
+"1397"	"1397"	"MIE"	"origin"	"green"	"223, 224, 225"	"Cellular"	"Increased, serotonin transporter activity"	1	52	0	2	2	0	0	10	13.0990753369778	32.018114558067
+"1398"	"1398"	"KE"	""	"white"	"223, 224, 225"	"Cellular"	"Increased, intracellular serotonin"	1	53	1	1	2	4	5.89838266347368e-06	3	11.6394623609871	33.5361585474839
+"1399"	"1399"	"KE"	""	"white"	"223, 224, 225"	"Cellular"	"Increased, packaged serotonin"	1	54	1	1	2	16	2.35935306538947e-05	3	9.45130926043131	33.3724452331997
+"1400"	"1400"	"KE"	""	"white"	"223, 224, 225"	"Cellular"	"Increased, synaptic release"	1	55	1	1	2	26	3.83394873125789e-05	3	7.21378636892671	32.4944857189024
+"1401"	"1401"	"KE"	""	"white"	"223"	"Tissue"	"Decreased, 5-HT3"	1	102	1	1	2	10	1.47459566586842e-05	4	7.41814966425469	30.9682981267714
+"1402"	"1402"	"MIE"	"origin"	"green"	"227"	"Molecular"	"Reduced, PTGS1 function"	33	47	0	4	4	0	0	4	36.1438102164059	-2.49906299179301
+"1403"	"1403"	"KE"	""	"white"	"227"	"Tissue"	"Reduced, platelet aggregation"	33	51	1	1	2	1	1.47459566586842e-06	1	34.9335961943609	-2.97854832633495
+"1404"	"1404"	"KE"	""	"white"	"227"	"Tissue"	"Decreased, mucosal blood flow"	33	50	1	1	2	0.333333333	4.91531888131274e-07	1	36.9175007581695	-1.93001968537936
+"1405"	"1405"	"KE"	""	"white"	"227, 229"	"Tissue"	"Reduced, mucosal defense"	33	67	4	1	5	7	1.03221696610789e-05	4	36.12944830858	-0.674844487634141
+"1406"	"1406"	"KE"	""	"white"	"227"	"Tissue"	"Decreased, mucous"	33	49	1	1	2	0.333333333	4.91531888131274e-07	1	35.615428252624	-1.52549001072003
+"1407"	"1407"	"KE"	""	"white"	"227"	"Tissue"	"Decreased, bicarbonate"	33	48	1	1	2	0.333333333	4.91531888131274e-07	1	37.1840877150556	-1.10213096074632
+"1408"	"1408"	"MIE"	"origin"	"green"	"228"	"Cellular"	"Reduced, PTGS2 function"	33	43	0	2	2	0	0	2	33.2486072172706	0.33751391853664
+"1409"	"1409"	"KE"	""	"white"	"228"	"Tissue"	"Decreased, angiogenesis"	33	46	1	1	2	1	1.47459566586842e-06	1	33.3649138623864	-1.00094853760885
+"1410"	"1410"	"KE"	""	"white"	"228"	"Tissue"	"Increased, leukocyte adherence"	33	44	1	1	2	1	1.47459566586842e-06	1	34.1947861474108	1.10016004877374
+"1411"	"1411"	"KE"	""	"white"	"228"	"Tissue"	"Increased, leukocyte activation"	33	45	1	1	2	1	1.47459566586842e-06	1	34.6521289537424	0.0049918146014755
+"1412"	"1412"	"MIE"	"origin"	"green"	"229"	"Tissue"	"Helicobacter pylori infection"	33	42	0	1	1	0	0	1	39.3213729708654	1.43533378435954
+"1413"	"1413"	"MIE"	"origin"	"green"	"231"	"Cellular"	"Reduced, presynaptic neuron 2 activity"	1	40	0	1	1	0	0	5	9.2281600382829	36.8509467116319
+"1414"	"1414"	"KE"	""	"white"	"231"	"Cellular"	"Decreased, GABA"	1	41	1	1	2	7	1.03221696610789e-05	5	7.74567084433566	36.3739511826453
+"1415"	"1415"	"KE"	""	"white"	"231"	"Molecular"	"Reduced, GABA-A receptor activation"	1	82	2	1	3	18	2.65427219856315e-05	5	5.87991058780734	35.5621952692773
+"1416"	"1416"	"KE"	""	"white"	"231"	"Cellular"	"Decreased, intracellular chloride"	1	83	1	1	2	20	2.94919133173684e-05	5	5.30905794612802	34.4585517860128
+"1417"	"1417"	"MIE"	"origin"	"green"	"232"	"Molecular"	"NFE2/Nrf2 repression"	34	32	0	1	1	0	0	1	19.6878541031235	37.2735111987854
+"1419"	"1419"	"KE"	""	"white"	"232"	"Molecular"	"Reduced, FXR activity"	34	33	1	1	2	6	8.84757399521051e-06	1	18.5961244986932	37.3747314049441
+"1420"	"1420"	"KE"	""	"white"	"232"	"Molecular"	"Reduced, SHP activity"	34	34	1	1	2	10	1.47459566586842e-05	1	18.2327151156018	38.373185421413
+"1421"	"1421"	"KE"	""	"white"	"232"	"Molecular"	"Activated, LXR"	34	35	1	1	2	12	1.7695147990421e-05	1	17.9308965123804	39.4442934967884
+"1422"	"1422"	"KE"	""	"white"	"232"	"Molecular"	"Reduced, PPARalpha"	34	36	1	1	2	12	1.7695147990421e-05	1	16.8179085616408	39.7557786897162
+"1423"	"1423"	"KE"	""	"white"	"232"	"Molecular"	"Reduced, HSD17B4 activity"	34	37	1	1	2	10	1.47459566586842e-05	1	16.0542626619445	38.9725150745123
+"1424"	"1424"	"KE"	""	"white"	"232"	"Molecular"	"Reduced, fatty acid beta oxidation"	34	38	1	1	2	6	8.84757399521051e-06	1	16.4457518343157	37.8748049819193
+"1418"	"1418"	"AO"	"terminus"	"red"	"232"	"Organ"	"Increased, steatosis"	34	39	1	0	1	0	0	1	16.1575945556726	36.8408107432
+"1425"	"1425"	"MIE"	"origin"	"green"	"233, 234"	"Molecular"	"Mu Opioid Receptor Agonism"	1	27	0	1	1	0	0	7	31.5100422126132	-6.12429046112307
+"1426"	"1426"	"KE"	""	"white"	"233, 234, 235, 236"	"Cellular"	"Release of G Proteins"	1	28	2	2	4	20	2.94919133173684e-05	14	29.7029583873998	-6.74645825793837
+"1427"	"1427"	"KE"	""	"white"	"233, 235"	"Cellular"	"Opening of G protein gated inward rectifying K channels"	1	31	1	1	2	18	2.65427219856315e-05	10	27.4079603528082	-7.28908138430118
+"1428"	"1428"	"AO"	"terminus"	"red"	"233, 234"	"Individual"	"Analgesia"	1	333	2	0	2	0	0	7	26.651153760138	-8.85079875808671
+"1429"	"1429"	"KE"	""	"white"	"234, 236"	"Cellular"	"Inhibition of N-type Ca ion channels"	1	29	1	1	2	6	8.84757399521051e-06	4	29.3534681218648	-7.76323226594371
+"1430"	"1430"	"KE"	""	"white"	"234, 236"	"Cellular"	"Inhibition of neurotransmitter vesicle release"	1	30	1	2	3	5	7.37297832934209e-06	4	27.9349931915653	-8.35870837280567
+"1431"	"1431"	"MIE"	"origin"	"green"	"235, 236"	"Molecular"	"Serotonin 1A Receptor Agonism"	1	26	0	1	1	0	0	7	30.9360441852529	-6.99354239112045
+"1432"	"1432"	"AO"	"terminus"	"red"	"235, 236"	"Individual"	"Anti-depressant Activity"	1	332	2	0	2	0	0	7	26.3602363329014	-8.02984011898438
+"1437"	"1437"	"MIE"	"origin"	"green"	"237"	"Molecular"	"Sensing of the stressor by pulmonary cells"	35	19	0	1	1	0	0	2	33.8241813722247	3.46045568779794
+"1438"	"1438"	"KE"	""	"white"	"237"	"Molecular"	"Increased production of pulmonary, pro-inflammatory cytokines"	35	20	1	1	2	5	7.37297832934209e-06	2	34.5784400617168	2.68573603965578
+"1439"	"1439"	"KE"	""	"white"	"237"	"Molecular"	"Increased production of pulmonary SAA"	35	21	1	1	2	8	1.17967653269474e-05	2	35.3388051230756	3.50487161650742
+"1440"	"1440"	"KE"	""	"white"	"237"	"Cellular"	"Formation of HDL-SAA"	35	22	1	2	3	9	1.32713609928158e-05	2	36.3596066883236	3.03064292237766
+"1441"	"1441"	"KE"	""	"white"	"237"	"Organ"	"Increased systemic total cholesterol pool"	35	23	1	1	2	0	0	1	36.5841555897631	4.21734253683326
+"1442"	"1442"	"KE"	""	"white"	"237"	"Organ"	"Foam cell formation"	35	24	2	1	3	5	7.37297832934209e-06	2	37.485212448472	3.42620886895279
+"1443"	"1443"	"AO"	"terminus"	"red"	"237"	"Individual"	"Plaque progression in arteries"	35	25	1	0	1	0	0	2	38.4537864342766	2.76301937720597
+"1445"	"1445"	"KE"	""	"white"	"238"	"Cellular"	"Increase, Lipid peroxidation"	1	586	1	1	2	17.5	2.58054241526973e-05	18	3.66683571626444	17.5728211070817
+"1446"	"1446"	"KE"	""	"white"	"238"	"Cellular"	"Increase, Uncoupling of oxidative phosphorylation"	1	587	1	1	2	30.5	4.49751678089868e-05	18	6.1736477671102	18.7034394094637
+"1468"	"1468"	"MIE"	"origin"	"green"	"241"	"Molecular"	"Activation, Latent Transforming Growth Factor Beta 1"	1	16	0	1	1	0	0	5	22.3202051875173	25.105094668349
+"1469"	"1469"	"KE"	""	"white"	"241"	"Molecular"	"Activation, Transforming Growth Factor beta pathway"	1	17	1	2	3	6	8.84757399521051e-06	5	22.0757944809707	23.11956220645
+"1456"	"1456"	"KE"	""	"white"	"241"	"Cellular"	"Increase, Differentiation of fibroblasts"	1	18	1	1	2	3	4.42378699760526e-06	2	20.62698768298	21.410531193153
+"1462"	"1462"	"MIE"	"origin"	"green"	"242"	"Molecular"	"Thiol group of chemicals interact with sulfuhydryl groups of proteins to form thiol adducts"	1	11	0	1	1	0	0	3	8.01989555920008	22.1145100172744
+"1463"	"1463"	"KE"	""	"white"	"242"	"Cellular"	"Inhibition of lysyl oxidase"	1	12	1	1	2	8	1.17967653269474e-05	3	8.5500707003071	19.9054270719869
+"1464"	"1464"	"KE"	""	"white"	"242"	"Tissue"	"Reduction of collagen crosslinking"	1	13	1	1	2	14	2.06443393221579e-05	3	8.66270761994457	17.3035425256971
+"1465"	"1465"	"KE"	""	"white"	"242"	"Tissue"	"Weak collagen matrix"	1	14	1	1	2	18	2.65427219856315e-05	3	8.31103358088538	13.7460578052031
+"1466"	"1466"	"KE"	""	"white"	"242"	"Organ"	"Notochord distortion or malformations"	1	15	1	1	2	20	2.94919133173684e-05	3	7.61084250757556	9.88541903020568
+"1467"	"1467"	"AO"	"terminus"	"red"	"242"	"Individual"	"Growth, reduction"	1	466	1	0	1	0	0	20	7.03089762674738	4.97707194734461
+"1471"	"1471"	"MIE"	"origin"	"green"	"245"	"Cellular"	"Increase, Uncoupling of photophosphorylation"	1	4	0	1	1	0	0	9	18.9008535775474	32.9703952383999
+"1472"	"1472"	"KE"	""	"white"	"245"	"Cellular"	"Decrease, Chloroplast ATP production"	1	5	1	1	2	22	3.24411046491052e-05	9	18.5162399834683	31.7682302582335
+"1473"	"1473"	"KE"	""	"white"	"245"	"Cellular"	"Decrease, Chlorophyll synthesis"	1	6	1	1	2	42	6.19330179664736e-05	9	16.9615171843269	30.417218983604
+"1474"	"1474"	"KE"	""	"white"	"245"	"Cellular"	"Decrease, Light harvest capacity"	1	7	1	1	2	60	8.84757399521051e-05	9	15.3036370819229	28.6464857947349
+"1475"	"1475"	"KE"	""	"white"	"245"	"Cellular"	"Decrease, Photosynthesis"	1	8	1	1	2	76	0.000112069270606	9	13.5376426839303	26.8926190879311
+"1476"	"1476"	"KE"	""	"white"	"245"	"Cellular"	"Decrease, Glycolysis"	1	9	1	1	2	90	0.000132713609928158	9	12.0071382721895	24.8116561280198
+"1477"	"1477"	"KE"	""	"white"	"245"	"Cellular"	"Decrease, Oxidative phosphorylation"	1	10	1	1	2	102	0.000150408757918579	9	10.525936253636	21.871955863147
+"1478"	"1478"	"KE"	""	"white"	"245"	"Tissue"	"Decrease, Leaf cell mitosis"	1	592	1	1	2	36	5.30854439712631e-05	6	7.54765990422701	20.9501890172855
+"1479"	"1479"	"KE"	""	"white"	"245"	"Organ"	"Decrease, Leaf development"	1	593	1	1	2	19	2.80173176515e-05	6	6.39415805877699	23.0339486450501
+"1480"	"1480"	"AO"	"terminus"	"red"	"245"	"Individual"	"Increase, Growth inhibition"	1	594	1	0	1	0	0	6	6.34403004169489	24.8547087461163
+"1481"	"1481"	"MIE"	"origin"	"green"	"256"	"Molecular"	"Inhibition of mitochondrial DNA polymerase gamma (Pol gamma)"	1	2	0	1	1	0	0	12	11.8440533342074	22.0325348737617
+"1482"	"1482"	"KE"	""	"white"	"256"	"Cellular"	"Depletion, mtDNA "	1	3	1	1	2	18	2.65427219856315e-05	12	11.9162301791487	20.2223043719
+"1483"	"1483"	"KE"	""	"white"	"256, 258"	"Cellular"	"Dysfunction, Mitochondria "	1	487	2	2	4	51	7.52043789592894e-05	24	12.2881526426451	17.5062480668376
+"1486"	"1486"	"MIE"	"origin"	"green"	"257"	"Molecular"	"Binding of substrate, endocytic receptor"	1	1	0	1	1	0	0	723	29.4624450047029	11.4008687776997
